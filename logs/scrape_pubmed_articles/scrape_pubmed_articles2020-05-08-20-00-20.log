@@ -1,0 +1,36 @@
+2020-05-08 20:00:20,933 - root - DEBUG - Now searching Google Scholar for keyword: Expi293
+2020-05-08 20:00:21,985 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39801/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (X11; Ubuntu i686; rv:52.0) Gecko/20100101 Firefox/52.0"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (X11; Ubuntu i686; rv:52.0) Gecko/20100101 Firefox/52.0"]}}}
+2020-05-08 20:00:21,991 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:39801
+2020-05-08 20:00:23,412 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "POST /session HTTP/1.1" 200 681
+2020-05-08 20:00:23,444 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:23,461 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39801/session/28794d3d29e578a20212eec6e0825cda/window/rect {"x": null, "y": null, "width": 523, "height": 568}
+2020-05-08 20:00:23,594 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "POST /session/28794d3d29e578a20212eec6e0825cda/window/rect HTTP/1.1" 200 50
+2020-05-08 20:00:23,596 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:25,599 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39801/session/28794d3d29e578a20212eec6e0825cda/url {"url": "https://scholar.google.com/scholar?hl=en&q=Expi293"}
+2020-05-08 20:00:27,985 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "POST /session/28794d3d29e578a20212eec6e0825cda/url HTTP/1.1" 200 14
+2020-05-08 20:00:27,987 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:27,988 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39801/session/28794d3d29e578a20212eec6e0825cda/source {}
+2020-05-08 20:00:28,052 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "GET /session/28794d3d29e578a20212eec6e0825cda/source HTTP/1.1" 200 149122
+2020-05-08 20:00:28,061 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:28,062 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39801/session/28794d3d29e578a20212eec6e0825cda/source {}
+2020-05-08 20:00:28,111 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "GET /session/28794d3d29e578a20212eec6e0825cda/source HTTP/1.1" 200 149122
+2020-05-08 20:00:28,117 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:43,455 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39801/session/28794d3d29e578a20212eec6e0825cda/url {"url": "https://scholar.google.com/scholar?q=info:0SG-AW_A004J:scholar.google.com/&output=cite&scirp=0&hl=en"}
+2020-05-08 20:00:44,003 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "POST /session/28794d3d29e578a20212eec6e0825cda/url HTTP/1.1" 200 14
+2020-05-08 20:00:44,004 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:44,005 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39801/session/28794d3d29e578a20212eec6e0825cda/source {}
+2020-05-08 20:00:44,043 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "GET /session/28794d3d29e578a20212eec6e0825cda/source HTTP/1.1" 200 3656
+2020-05-08 20:00:44,045 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:44,047 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39801/session/28794d3d29e578a20212eec6e0825cda/source {}
+2020-05-08 20:00:44,065 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "GET /session/28794d3d29e578a20212eec6e0825cda/source HTTP/1.1" 200 3656
+2020-05-08 20:00:44,069 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:46,112 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39801/session/28794d3d29e578a20212eec6e0825cda/url {"url": "https://scholar.googleusercontent.com/scholar.bib?q=info:0SG-AW_A004J:scholar.google.com/&output=citation&scisdr=CgUzb8dmEJrliUDwG4o:AAGBfm0AAAAAXrX1A4q5_-Cul9_whMdHS6B8z6W8Hlxw&scisig=AAGBfm0AAAAAXrX1Az-XOyOLO7zFDS8T7JskZDVY4xiR&scisf=4&ct=citation&cd=-1&hl=en"}
+2020-05-08 20:00:48,501 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "POST /session/28794d3d29e578a20212eec6e0825cda/url HTTP/1.1" 200 14
+2020-05-08 20:00:48,504 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:48,507 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39801/session/28794d3d29e578a20212eec6e0825cda/source {}
+2020-05-08 20:00:48,544 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "GET /session/28794d3d29e578a20212eec6e0825cda/source HTTP/1.1" 200 618
+2020-05-08 20:00:48,552 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:48,556 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39801/session/28794d3d29e578a20212eec6e0825cda/source {}
+2020-05-08 20:00:48,573 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39801 "GET /session/28794d3d29e578a20212eec6e0825cda/source HTTP/1.1" 200 618
+2020-05-08 20:00:48,575 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 20:00:48,683 - bibtexparser.bparser - DEBUG - Found Entry: ['article', 'jain2017high', {'publisher': 'Elsevier', 'year': '2017', 'pages': '38--46', 'volume': '134', 'journal': 'Protein expression and purification', 'author': 'Jain, Nina K and Barkowski-Clark, Susan and Altman, Richard and Johnson, Krista and Sun, Fang and Zmuda, Jonathan and Liu, Chao Yan and Kita, Adriana and Schulz, Ryan and Neill, Alyssa and others', 'title': 'A high density CHO-S transient transfection system: comparison of ExpiCHO and Expi293'}]

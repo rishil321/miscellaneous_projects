@@ -1,0 +1,32 @@
+2020-05-08 19:58:43,395 - root - DEBUG - Now searching Google Scholar for keyword: Expi293
+2020-05-08 19:58:44,426 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:51551/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36"]}}}
+2020-05-08 19:58:44,431 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:51551
+2020-05-08 19:58:45,544 - urllib3.connectionpool - DEBUG - http://127.0.0.1:51551 "POST /session HTTP/1.1" 200 681
+2020-05-08 19:58:45,569 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 19:58:45,572 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:51551/session/8b936114bd0b018453a8ba88bd2203ab/window/rect {"x": null, "y": null, "width": 396, "height": 185}
+2020-05-08 19:58:45,719 - urllib3.connectionpool - DEBUG - http://127.0.0.1:51551 "POST /session/8b936114bd0b018453a8ba88bd2203ab/window/rect HTTP/1.1" 200 50
+2020-05-08 19:58:45,722 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 19:58:47,725 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:51551/session/8b936114bd0b018453a8ba88bd2203ab/url {"url": "https://scholar.google.com/scholar?hl=en&q=Expi293"}
+2020-05-08 19:58:57,223 - urllib3.connectionpool - DEBUG - http://127.0.0.1:51551 "POST /session/8b936114bd0b018453a8ba88bd2203ab/url HTTP/1.1" 200 14
+2020-05-08 19:58:57,226 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 19:58:57,227 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:51551/session/8b936114bd0b018453a8ba88bd2203ab/source {}
+2020-05-08 19:58:57,283 - urllib3.connectionpool - DEBUG - http://127.0.0.1:51551 "GET /session/8b936114bd0b018453a8ba88bd2203ab/source HTTP/1.1" 200 69709
+2020-05-08 19:58:57,291 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 19:58:57,350 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,352 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,355 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,356 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,358 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,360 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,361 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,363 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,364 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,400 - stem - DEBUG - GETCONF __owningcontrollerprocess (runtime: 0.0025)
+2020-05-08 19:58:57,413 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,414 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,415 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,416 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,417 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,417 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,418 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 19:58:57,419 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content

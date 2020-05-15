@@ -1,0 +1,18 @@
+2020-05-09 17:53:12,358 - root - DEBUG - Now searching Google Scholar for keyword: Expi293
+2020-05-09 17:53:13,388 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:57629/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:27.0) Gecko/20121011 Firefox/27.0"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:27.0) Gecko/20121011 Firefox/27.0"]}}}
+2020-05-09 17:53:13,392 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:57629
+2020-05-09 17:53:14,436 - urllib3.connectionpool - DEBUG - http://127.0.0.1:57629 "POST /session HTTP/1.1" 200 681
+2020-05-09 17:53:14,460 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 17:53:14,470 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:57629/session/5d0d4beffefec7eff346c53139f1902a/window/rect {"x": null, "y": null, "width": 285, "height": 986}
+2020-05-09 17:53:14,603 - urllib3.connectionpool - DEBUG - http://127.0.0.1:57629 "POST /session/5d0d4beffefec7eff346c53139f1902a/window/rect HTTP/1.1" 200 50
+2020-05-09 17:53:14,610 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 17:53:16,615 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:57629/session/5d0d4beffefec7eff346c53139f1902a/url {"url": "https://scholar.google.com/scholar?hl=en&q=Expi293"}
+2020-05-09 17:53:21,587 - urllib3.connectionpool - DEBUG - http://127.0.0.1:57629 "POST /session/5d0d4beffefec7eff346c53139f1902a/url HTTP/1.1" 200 14
+2020-05-09 17:53:21,589 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 17:53:21,591 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:57629/session/5d0d4beffefec7eff346c53139f1902a/source {}
+2020-05-09 17:53:21,614 - urllib3.connectionpool - DEBUG - http://127.0.0.1:57629 "GET /session/5d0d4beffefec7eff346c53139f1902a/source HTTP/1.1" 200 2468
+2020-05-09 17:53:21,616 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 17:53:21,619 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:57629/session/5d0d4beffefec7eff346c53139f1902a/source {}
+2020-05-09 17:53:21,635 - urllib3.connectionpool - DEBUG - http://127.0.0.1:57629 "GET /session/5d0d4beffefec7eff346c53139f1902a/source HTTP/1.1" 200 2468
+2020-05-09 17:53:21,637 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 17:53:21,667 - root - ERROR - 'NoneType' object has no attribute 'get'

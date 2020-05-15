@@ -1,0 +1,2 @@
+2020-05-08 10:00:09,852 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): scholar.google.com:443
+2020-05-08 10:00:10,254 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?q=Expi293 HTTP/1.1" 200 None

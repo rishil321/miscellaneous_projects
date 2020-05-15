@@ -1,0 +1,17 @@
+2020-05-08 18:59:25,223 - root - DEBUG - Now searching Google Scholar for keyword: Expi293
+2020-05-08 18:59:26,260 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:54217/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 7.0; InfoPath.3; .NET CLR 3.1.40767; Trident/6.0; en-IN)"]}}}
+2020-05-08 18:59:26,265 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:54217
+2020-05-08 18:59:27,223 - urllib3.connectionpool - DEBUG - http://127.0.0.1:54217 "POST /session HTTP/1.1" 200 681
+2020-05-08 18:59:27,247 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 18:59:27,254 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:54217/session/77c79aaba93748178fbb4422cd6345db/window/rect {"x": null, "y": null, "width": 907, "height": 156}
+2020-05-08 18:59:27,381 - urllib3.connectionpool - DEBUG - http://127.0.0.1:54217 "POST /session/77c79aaba93748178fbb4422cd6345db/window/rect HTTP/1.1" 200 50
+2020-05-08 18:59:27,383 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 18:59:29,388 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:54217/session/77c79aaba93748178fbb4422cd6345db/url {"url": "https://scholar.google.com/scholar?hl=en&q=Expi293"}
+2020-05-08 18:59:35,081 - urllib3.connectionpool - DEBUG - http://127.0.0.1:54217 "POST /session/77c79aaba93748178fbb4422cd6345db/url HTTP/1.1" 200 14
+2020-05-08 18:59:35,083 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 18:59:35,085 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:54217/session/77c79aaba93748178fbb4422cd6345db/source {}
+2020-05-08 18:59:35,115 - urllib3.connectionpool - DEBUG - http://127.0.0.1:54217 "GET /session/77c79aaba93748178fbb4422cd6345db/source HTTP/1.1" 200 68180
+2020-05-08 18:59:35,118 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-08 18:59:35,159 - stem - INFO - Error while receiving a control message (SocketClosed): empty socket content
+2020-05-08 18:59:35,192 - stem - DEBUG - GETCONF __owningcontrollerprocess (runtime: 0.0028)
+2020-05-08 18:59:35,204 - stem - INFO - Error while receiving a control message (SocketClosed): received exception "read of closed file"

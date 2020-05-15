@@ -1,0 +1,545 @@
+2020-05-08 11:18:36,991 - root - DEBUG - Now searching Google Scholar for keyword: Expi293
+2020-05-08 11:18:43,753 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): scholar.google.com:443
+2020-05-08 11:18:44,181 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?q=Expi293 HTTP/1.1" 200 None
+2020-05-08 11:18:44,650 - root - DEBUG - Date for A high density CHO-S transient transfection system: comparison of ExpiCHO and Expi293 is 2017. Adding.
+2020-05-08 11:18:44,663 - root - DEBUG - Date for Efficient and inexpensive transient expression of multispecific multivalent antibodies in Expi293 cells is 2017. Adding.
+2020-05-08 11:18:44,675 - root - ERROR - Could not get date for BISTABLE DYNAMIC BEHAVIOR OF ENDOGENOUS BUTYRYLCHOLINESTERASE EXPRESSED IN Expi293 CELLS. Not adding.
+2020-05-08 11:18:44,686 - root - DEBUG - Date for Mammalian Transient Transfection System: Novel Approach Produces Gram-Per-Liter Expression Levels of Biologically Active Proteins is 2012. Not adding.
+2020-05-08 11:18:44,697 - root - DEBUG - Date for Increasing protein expression to 1g/L in the next generation mammalian transient protein production system: Expi293 (TM) is 2012. Not adding.
+2020-05-08 11:18:44,708 - root - DEBUG - Date for Attaining High Transient Titers in CHO Cells: Case Study Involving the Use of the ExpiCHO™ Mammalian Transient Expression System is 2015. Not adding.
+2020-05-08 11:18:44,719 - root - ERROR - Could not get date for Expi 293 CELLS EXPRESSING AN ENDOGENOUS WILD-TYPE BUTYRYLCHOLINESTERASE, AND A VARIETY OF ESTE-RASES THAT SELF …. Not adding.
+2020-05-08 11:18:44,732 - root - DEBUG - Date for Transient Expression Meets Enduring Demands is 2014. Not adding.
+2020-05-08 11:18:44,745 - root - ERROR - Could not get date for FectoPRO®: A Powerful High Yield Transfection Solution for Transient CHO and HEK-293 Expression Systems. Not adding.
+2020-05-08 11:18:44,762 - root - ERROR - Could not get date for Improving Productivity in Transient Gene Expression Systems with FectoPRO® a Novel Powerful Transfection Solution. Not adding.
+2020-05-08 11:18:50,571 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=10&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:18:50,847 - root - DEBUG - Date for Expression and Preparation of Recombinant Reelin and ADAMTS-3 Proteins is 2020. Adding.
+2020-05-08 11:18:50,855 - root - DEBUG - Date for Rational design of transient gene expression process with lipoplexes for high-level therapeutic protein production in HEK293 cells is 2019. Adding.
+2020-05-08 11:18:50,865 - root - DEBUG - Date for Computer-designed active human butyrylcholinesterase double mutant with a new catalytic triad is 2019. Adding.
+2020-05-08 11:18:50,876 - root - ERROR - Could not get date for Computer-designed active human butyrylcholinesterase double mutant with a new catalytic triad. Not adding.
+2020-05-08 11:18:50,887 - root - DEBUG - Date for 肿瘤坏死因子相关诱导凋亡配体及其 I 型受体单克隆抗体联合体内外抗肿瘤作用 is 2018. Adding.
+2020-05-08 11:18:50,898 - root - DEBUG - Date for Heat shock protein 70-1A is a novel angiogenic regulator is 2016. Not adding.
+2020-05-08 11:18:50,913 - root - DEBUG - Date for Scalable transient protein expression is 2014. Not adding.
+2020-05-08 11:18:50,925 - root - DEBUG - Date for Development of an ImmunoPET Tracer for Imaging Human CD8+ T Cells is 2014. Not adding.
+2020-05-08 11:18:50,939 - root - ERROR - Could not get date for Purification of Recombinant Ebola Virus Glycoprotein and VP40 from a Human Cell Line. Not adding.
+2020-05-08 11:18:50,952 - root - DEBUG - Date for Structure and Interaction Analysis of Human R7-RGS/Gβ5/R7BP complexes is 2018. Adding.
+2020-05-08 11:18:57,551 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=20&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:18:57,825 - root - DEBUG - Date for Reprogramming Exosomes for Immunotherapy is 2020. Adding.
+2020-05-08 11:18:57,833 - root - DEBUG - Date for Identification of the gene that codes for the σ2 receptor is 2017. Adding.
+2020-05-08 11:18:57,845 - root - ERROR - Could not get date for Expressão da tireotrofina humana (hTSH) em células de rim de embrião humano (Expi293F™) cultivadas em suspensão. Not adding.
+2020-05-08 11:18:57,861 - root - DEBUG - Date for Zika virus-like particle (VLP) based vaccine is 2017. Adding.
+2020-05-08 11:18:57,873 - root - ERROR - Could not get date for Enhancing the display of dengue E protein on the surface on PRINT particles. Not adding.
+2020-05-08 11:18:57,886 - root - DEBUG - Date for A companion protein, click chemistry approach to extended half life FVIII is 2018. Adding.
+2020-05-08 11:18:57,900 - root - DEBUG - Date for Development of high affinity engineered antibody fragments targeting PD-L1 for immunoPET is 2018. Adding.
+2020-05-08 11:18:57,914 - root - DEBUG - Date for Efficient Production of Homogeneous Lysine-Based Antibody Conjugates Using Microbial Transglutaminase is 2019. Adding.
+2020-05-08 11:18:57,926 - root - DEBUG - Date for Preparation of Recombinant Siglecs and Identification of Their Ligands is 2020. Adding.
+2020-05-08 11:18:57,938 - root - ERROR - Could not get date for Development of Immunocytokine Based on Human PD-L1 Antibody and Interferon-β-1b Mutein. Not adding.
+2020-05-08 11:19:03,361 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=30&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:19:03,722 - root - ERROR - Could not get date for Abstract P1-19-02: Innovation in diagnosis and treatment of brain metastases using multifunctional nanomedicines. Not adding.
+2020-05-08 11:19:03,733 - root - DEBUG - Date for Crystal structures of human Fabs targeting the Bexsero meningococcal vaccine antigen NHBA is 2017. Adding.
+2020-05-08 11:19:03,744 - root - DEBUG - Date for Designer RNA binding proteins for loading exogenous RNA into extracellular vesicles is 2018. Adding.
+2020-05-08 11:19:03,754 - root - DEBUG - Date for Evaluation of selectivity in homologous multimodal chromatographic systems using in silico designed antibody fragment libraries is 2015. Not adding.
+2020-05-08 11:19:03,766 - root - DEBUG - Date for A novel bispecific antibody against human CD3 and ephrin receptor A10 for breast cancer therapy is 2015. Not adding.
+2020-05-08 11:19:03,780 - root - DEBUG - Date for Investigation of protein selectivity in multimodal chromatography using in silico designed Fab fragment variants is 2015. Not adding.
+2020-05-08 11:19:03,791 - root - DEBUG - Date for Simply Mixing Poly Protein G with Detection Antibodies Enhances the Detection Limit and Sensitivity of Immunoassays is 2019. Adding.
+2020-05-08 11:19:03,803 - root - DEBUG - Date for Molecular basis of valine-citrulline-PABC linker instability in site-specific ADCs and its mitigation by linker design is 2016. Not adding.
+2020-05-08 11:19:03,815 - root - DEBUG - Date for Expression of glycosylated human prolactin in HEK293 cells and related N-glycan composition analysis is 2019. Adding.
+2020-05-08 11:19:03,825 - root - DEBUG - Date for Oncogenic mutation of AIMP2/p38 inhibits its tumor-suppressive interaction with Smurf2 is 2016. Not adding.
+2020-05-08 11:19:13,594 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=40&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:19:13,907 - root - DEBUG - Date for Human IgG subclass cross-species reactivity to mouse and cynomolgus monkey Fcγ receptors is 2018. Adding.
+2020-05-08 11:19:13,915 - root - DEBUG - Date for Development and Utility of an ELISA Method for Sensitive and Specific Detection of IgE Antidrug Antibodies is 2020. Adding.
+2020-05-08 11:19:13,924 - root - DEBUG - Date for Design and preclinical characterization of ALXN1210: a novel anti-C5 antibody with extended duration of action is 2018. Adding.
+2020-05-08 11:19:13,936 - root - DEBUG - Date for Expression of IgG Monoclonals with Engineered Immune Effector Functions is 2018. Adding.
+2020-05-08 11:19:13,947 - root - DEBUG - Date for Nanoparticle delivery of ad subunit vaccine induces balanced, type-specific neutralizing antibodies to each dengue virus serotype is 2018. Adding.
+2020-05-08 11:19:13,959 - root - DEBUG - Date for Cryo-EM structure of full-length HIV-1 Env bound with the Fab of antibody PG16 is 2020. Adding.
+2020-05-08 11:19:13,973 - root - DEBUG - Date for Differences in the ease with which mutant viruses escape from human monoclonal antibodies against the HA stem of influenza A virus is 2018. Adding.
+2020-05-08 11:19:13,985 - root - DEBUG - Date for Glycoproteomic measurement of site-specific polysialylation is 2020. Adding.
+2020-05-08 11:19:13,996 - root - DEBUG - Date for A Novel T Cell-Engaging Bispecific Antibody for Treating Mesothelin-Positive Solid Tumors is 2020. Adding.
+2020-05-08 11:19:14,006 - root - DEBUG - Date for Subclade 2.2. 1-Specific Human Monoclonal Antibodies That Recognize an Epitope in Antigenic Site A of Influenza A (H5) Virus HA Detected between 2015 and 2018 is 2019. Adding.
+2020-05-08 11:19:22,797 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=50&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:19:23,103 - root - DEBUG - Date for 埃博拉病毒截短型糖蛋白 GPdmucin 的表达与纯化 is 2017. Adding.
+2020-05-08 11:19:23,112 - root - DEBUG - Date for Identification of cytidine-5-triphosphate synthase1-selective inhibitory peptide from random peptide library displayed on T7 phage is 2017. Adding.
+2020-05-08 11:19:23,121 - root - DEBUG - Date for Cryo-Electron Microscopy Structure of the αIIbβ3-Abciximab Complex is 2020. Adding.
+2020-05-08 11:19:23,134 - root - DEBUG - Date for Nanoparticle delivery of a tetravalent E protein subunit vaccine induces balanced, type-specific neutralizing antibodies to each dengue virus serotype is 2018. Adding.
+2020-05-08 11:19:23,143 - root - DEBUG - Date for rIgG1 Fc hexamer inhibits antibody-mediated autoimmune disease via effects on complement and FcγRs is 2018. Adding.
+2020-05-08 11:19:23,155 - root - DEBUG - Date for Engineering of GlcNAc-1-phosphotransferase for production of highly phosphorylated lysosomal enzymes for enzyme replacement therapy is 2017. Adding.
+2020-05-08 11:19:23,169 - root - DEBUG - Date for Development of an inflammatory tissue-selective chimeric TNF receptor is 2019. Adding.
+2020-05-08 11:19:23,181 - root - DEBUG - Date for Antibody-Based Targeting of Cell Surface GRP94 Specifically Inhibits Cetuximab-Resistant Colorectal Cancer Growth is 2019. Adding.
+2020-05-08 11:19:23,192 - root - DEBUG - Date for Monoclonal antibodies against autocrine motility factor suppress gastric cancer is 2017. Adding.
+2020-05-08 11:19:23,205 - root - DEBUG - Date for 单个 B 细胞制备 CRP 单克隆抗体及其 ELISA 检测体系的初步建立 is 2019. Adding.
+2020-05-08 11:19:30,723 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=60&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:19:30,993 - root - DEBUG - Date for NKG2D Ligand–Targeted Bispecific T-Cell Engagers Lead to Robust Antitumor Activity against Diverse Human Tumors is 2017. Adding.
+2020-05-08 11:19:31,001 - root - DEBUG - Date for Transfection Transitions to Bioproduction is 2015. Not adding.
+2020-05-08 11:19:31,011 - root - DEBUG - Date for A new enzyme-linked immunosorbent assay (ELISA) for human free and bound kallikrein 9 is 2017. Adding.
+2020-05-08 11:19:31,023 - root - DEBUG - Date for Novel antibody-mediated drug delivery system for targeting exosomal microRNA is 2018. Adding.
+2020-05-08 11:19:31,036 - root - DEBUG - Date for A comparative study of methodologies to encapsulate gold nanoparticles into exosomes for theragnostics is 2018. Adding.
+2020-05-08 11:19:31,047 - root - DEBUG - Date for Stabilized diverse HIV-1 envelope trimers for vaccine design is 2020. Adding.
+2020-05-08 11:19:31,058 - root - DEBUG - Date for Tranexamic acid is an active site inhibitor of urokinase plasminogen activator is 2019. Adding.
+2020-05-08 11:19:31,070 - root - DEBUG - Date for eCD4-Ig variants that more potently neutralize HIV-1 is 2018. Adding.
+2020-05-08 11:19:31,083 - root - DEBUG - Date for Expression of Sperm Acrosomal SLLP1 Binding (SAS1B) Protein in a Mammalian System for Crystallization is 2015. Not adding.
+2020-05-08 11:19:31,096 - root - DEBUG - Date for Precisely molded nanoparticle displaying DENV-E proteins induces robust serotype-specific neutralizing antibody responses is 2016. Not adding.
+2020-05-08 11:19:39,957 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=70&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:19:40,239 - root - DEBUG - Date for An FcεRI-IgE-based genetically encoded microfluidic cell sensor for fast Gram-negative bacterial screening in food samples is 2020. Adding.
+2020-05-08 11:19:40,247 - root - DEBUG - Date for 噬菌体展示系统筛选糖尿病相关抗原蛋白及应用效果评价 is 2019. Adding.
+2020-05-08 11:19:40,255 - root - DEBUG - Date for Optimizing high throughput antibody purification by using continuous chromatography media is 2019. Adding.
+2020-05-08 11:19:40,263 - root - ERROR - Could not get date for Development of an Anti-Muc1 Antibody-Drug Conjugate with Specificity to Target Cancer. Not adding.
+2020-05-08 11:19:40,277 - root - DEBUG - Date for Specific sialoforms required for the immunosuppressive activity of human soluble CD52 is 2019. Adding.
+2020-05-08 11:19:40,289 - root - DEBUG - Date for Generation of human bispecific common light chain antibodies by combining animal immunization and yeast display is 2017. Adding.
+2020-05-08 11:19:40,300 - root - DEBUG - Date for SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup is 2020. Adding.
+2020-05-08 11:19:40,313 - root - DEBUG - Date for “BIClonals”: Production of Bispecific Antibodies in IgG Format in Transiently Transfected Mammalian Cells is 2019. Adding.
+2020-05-08 11:19:40,324 - root - DEBUG - Date for A T-cell–engaging B7-H4/CD3-bispecific Fab-scFv Antibody Targets Human Breast Cancer is 2019. Adding.
+2020-05-08 11:19:40,337 - root - DEBUG - Date for Myelin oligodendrocyte glycoprotein-specific antibodies from multiple sclerosis patients exacerbate disease in a humanized mouse model is 2018. Adding.
+2020-05-08 11:19:47,731 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=80&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:19:48,120 - root - DEBUG - Date for Scalable method utilizing low pH for DNA removal in the harvest of recombinant adeno-associated virus vectors is 2019. Adding.
+2020-05-08 11:19:48,130 - root - DEBUG - Date for Mapping interaction sites on human chemokine receptors by deep mutational scanning is 2018. Adding.
+2020-05-08 11:19:48,140 - root - DEBUG - Date for Immunological association of inducible bronchus-associated lymphoid tissue organogenesis in Ag85B-rHPIV2 vaccine-induced anti-tuberculosis mucosal immune … is 2018. Adding.
+2020-05-08 11:19:48,151 - root - DEBUG - Date for Near infrared imaging of epidermal growth factor receptor positive xenografts in mice with domain I/II specific antibody fragments is 2019. Adding.
+2020-05-08 11:19:48,164 - root - ERROR - Could not get date for Biotinylation of membrane proteins for binder selections. Not adding.
+2020-05-08 11:19:48,177 - root - DEBUG - Date for VISTA is an acidic pH-selective ligand for PSGL-1 is 2019. Adding.
+2020-05-08 11:19:48,187 - root - DEBUG - Date for Site-Specific Fluorescent Labeling of Antibodies and Diabodies Using SpyTag/SpyCatcher System for In Vivo Optical Imaging is 2019. Adding.
+2020-05-08 11:19:48,200 - root - DEBUG - Date for Expression of Human VH Single Domains as Fc Fusions in Mammalian Cells is 2019. Adding.
+2020-05-08 11:19:48,212 - root - DEBUG - Date for In Vitro Assays to Measure the Membrane Tethering and Lipid Transport Activities of the Extended Synaptotagmins is 2019. Adding.
+2020-05-08 11:19:48,224 - root - DEBUG - Date for Analysis of peripheral B cells and autoantibodies against the anti-nicotinic acetylcholine receptor derived from patients with myasthenia gravis using single … is 2017. Adding.
+2020-05-08 11:19:58,216 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=90&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:19:58,567 - root - DEBUG - Date for Differential epitope recognition in the immunodominant staphylococcal antigen A of Staphylococcus aureus by mouse versus human IgG antibodies is 2017. Adding.
+2020-05-08 11:19:58,576 - root - DEBUG - Date for A new technology for increasing therapeutic protein levels in the brain over extended periods is 2019. Adding.
+2020-05-08 11:19:58,584 - root - DEBUG - Date for Simian immunodeficiency virus SIVmac239, but not SIVmac316, binds and utilizes human CD4 more efficiently than rhesus CD4 is 2017. Adding.
+2020-05-08 11:19:58,595 - root - DEBUG - Date for Synthetic DNA delivery by electroporation promotes robust in vivo sulfation of broadly neutralizing anti-HIV immunoadhesin eCD4-Ig is 2018. Adding.
+2020-05-08 11:19:58,608 - root - ERROR - Could not get date for Improving Productivity in Transient Protein Production Systems with FectoPRO™, a Novel Powerful Transfection Solution. Not adding.
+2020-05-08 11:19:58,620 - root - DEBUG - Date for anti-Bovine Programmed Death-1 rat–Bovine chimeric antibody for immunotherapy of Bovine leukemia Virus infection in cattle is 2017. Adding.
+2020-05-08 11:19:58,630 - root - DEBUG - Date for Development of a tetravalent anti-GPA33/anti-CD3 bispecific antibody for colorectal cancers is 2018. Adding.
+2020-05-08 11:19:58,645 - root - DEBUG - Date for Genetically Engineered Cell-Derived Nanoparticles for Targeted Breast Cancer Immunotherapy is 2020. Adding.
+2020-05-08 11:19:58,654 - root - DEBUG - Date for Recombinant human peptidoglycan recognition proteins reveal antichlamydial activity is 2016. Not adding.
+2020-05-08 11:19:58,665 - root - DEBUG - Date for Sodium chloride enhances recombinant adeno-associated virus production in a serum-free suspension manufacturing platform using the herpes simplex virus system is 2017. Adding.
+2020-05-08 11:20:07,917 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=100&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:20:08,315 - root - ERROR - Could not get date for P047 The plasma cell bone marrowniche in ACPA+ ra patients contain citrulline specific cells. Not adding.
+2020-05-08 11:20:08,326 - root - DEBUG - Date for A conserved C-terminal RXG motif in the NgBR subunit of cis-prenyltransferase is critical for prenyltransferase activity is 2017. Adding.
+2020-05-08 11:20:08,337 - root - DEBUG - Date for Structure of a lipid-bound extended synaptotagmin indicates a role in lipid transfer is 2014. Not adding.
+2020-05-08 11:20:08,349 - root - ERROR - Could not get date for SAT0047 PRIMARY LYMPHOID TISSUE FROM RHEUMATOID ARTHRITIS PATIENTS HARBOUR CITRULLINE SPECIFIC PLASMA CELLS. Not adding.
+2020-05-08 11:20:08,360 - root - DEBUG - Date for High-efficiency antibody discovery achieved with multiplexed microscopy is 2016. Not adding.
+2020-05-08 11:20:08,371 - root - DEBUG - Date for Biochemical and functional characterization of the human tissue kallikrein 9 is 2017. Adding.
+2020-05-08 11:20:08,382 - root - DEBUG - Date for Intra-seasonal antibody repertoire analysis of a subject immunized with an MF59®-adjuvanted pandemic 2009 H1N1 vaccine is 2018. Adding.
+2020-05-08 11:20:08,394 - root - DEBUG - Date for Characterization of the antigenic heterogeneity of lipoarabinomannan, the major surface glycolipid of Mycobacterium tuberculosis, and complexity of antibody … is 2018. Adding.
+2020-05-08 11:20:08,405 - root - DEBUG - Date for Regulation of programmed-death ligand in the human head and neck squamous cell carcinoma microenvironment is mediated through matrix … is 2018. Adding.
+2020-05-08 11:20:08,418 - root - DEBUG - Date for A high-throughput, in-vitro assay for Bacillus thuringiensis insecticidal proteins is 2016. Not adding.
+2020-05-08 11:20:13,803 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=110&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:20:14,196 - root - DEBUG - Date for PVRIG and PVRL2 are induced in cancer and inhibit CD8+ T-cell function is 2019. Adding.
+2020-05-08 11:20:14,207 - root - DEBUG - Date for Luminescent immunoprecipitation system (LIPS) for detection of autoantibodies against ATP4A and ATP4B subunits of gastric proton pump H+, K+-ATPase in … is 2017. Adding.
+2020-05-08 11:20:14,217 - root - DEBUG - Date for 全人源抗人肿瘤坏死因子相关诱导凋亡配体受体单克隆抗体蛋白高效表达体系的建立及其功能性分析 is 2015. Not adding.
+2020-05-08 11:20:14,225 - root - DEBUG - Date for Multimeric antibodies with increased valency surpassing functional affinity and potency thresholds using novel formats is 2020. Adding.
+2020-05-08 11:20:14,234 - root - DEBUG - Date for Structural basis of respiratory syncytial virus subtype-dependent neutralization by an antibody targeting the fusion glycoprotein is 2017. Adding.
+2020-05-08 11:20:14,244 - root - ERROR - Could not get date for Reconstituting Germline Interactions Leading to Broadly-Neutralising Antibodies (bnAbs) Against HIV-1. Not adding.
+2020-05-08 11:20:14,258 - root - ERROR - Could not get date for Preclinical PET imaging of Alzheimer's disease progression. Not adding.
+2020-05-08 11:20:14,269 - root - DEBUG - Date for Liquid–liquid phase separation of the Golgi matrix protein GM130 is 2020. Adding.
+2020-05-08 11:20:14,279 - root - DEBUG - Date for eCD4-Ig limits HIV-1 escape more effectively than CD4-Ig or a broadly neutralizing antibody is 2019. Adding.
+2020-05-08 11:20:14,291 - root - DEBUG - Date for Rapid charge variant analysis of monoclonal antibodies to support lead candidate biopharmaceutical development is 2018. Adding.
+2020-05-08 11:20:22,982 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=120&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:20:23,280 - root - DEBUG - Date for Effective optimization of antibody affinity by phage display integrated with high-throughput DNA synthesis and sequencing technologies is 2015. Not adding.
+2020-05-08 11:20:23,289 - root - DEBUG - Date for Mxra8 is a receptor for multiple arthritogenic alphaviruses is 2018. Adding.
+2020-05-08 11:20:23,300 - root - DEBUG - Date for Therapeutic targeting of tetraspanin8 in epithelial ovarian cancer invasion and metastasis is 2016. Not adding.
+2020-05-08 11:20:23,317 - root - DEBUG - Date for Multi-antigenic human cytomegalovirus mRNA vaccines that elicit potent humoral and cell-mediated immunity is 2018. Adding.
+2020-05-08 11:20:23,330 - root - DEBUG - Date for SNPs in inflammatory genes CCL11, CCL4 and MEFV in a fibromyalgia family study is 2018. Adding.
+2020-05-08 11:20:23,342 - root - DEBUG - Date for Generating aldehyde-tagged antibodies with high titers and high formylglycine yields by supplementing culture media with copper (II) is 2016. Not adding.
+2020-05-08 11:20:23,352 - root - DEBUG - Date for H5N1 vaccine–elicited memory B cells are genetically constrained by the IGHV locus in the recognition of a neutralizing epitope in the hemagglutinin stem is 2015. Not adding.
+2020-05-08 11:20:23,364 - root - DEBUG - Date for Modulation of PTH1R signaling by an ECD binding antibody results in inhibition of β-arrestin 2 coupling is 2019. Adding.
+2020-05-08 11:20:23,375 - root - DEBUG - Date for ENPP1 processes protein ADP‐ribosylation in vitro is 2016. Not adding.
+2020-05-08 11:20:23,386 - root - DEBUG - Date for Dynamic functional assembly of the Torsin AAA+ ATPase and its modulation by LAP1 is 2017. Adding.
+2020-05-08 11:20:33,249 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=130&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:20:33,553 - root - DEBUG - Date for Structure of a Potential Therapeutic Antibody Bound to Interleukin-16 (IL-16) MECHANISTIC INSIGHTS AND NEW THERAPEUTIC OPPORTUNITIES is 2016. Not adding.
+2020-05-08 11:20:33,563 - root - DEBUG - Date for Generation of recombinant monoclonal antibodies from immunised mice and rabbits via flow cytometry and sorting of antigen-specific IgG+ memory B cells is 2016. Not adding.
+2020-05-08 11:20:33,574 - root - DEBUG - Date for Targeting Phosphatidylserine with Calcium-Dependent Protein–Drug Conjugates for the Treatment of Cancer is 2018. Adding.
+2020-05-08 11:20:33,584 - root - DEBUG - Date for Production of Stabilized Antibody Fragments in the E. coli Bacterial Cytoplasm and in Transiently Transfected Mammalian Cells is 2019. Adding.
+2020-05-08 11:20:33,595 - root - DEBUG - Date for Oligomeric state of the ZIKV E protein defines protective immune responses is 2019. Adding.
+2020-05-08 11:20:33,609 - root - ERROR - Could not get date for Differential epitope recognition in the immunodominant staphylococcal antigen A of Staphylococcus aureus by IgGs from mice and men. Not adding.
+2020-05-08 11:20:33,622 - root - DEBUG - Date for A glycoengineered interferon-β mutein (R27T) generates prolonged signaling by an altered receptor-binding kinetics is 2019. Adding.
+2020-05-08 11:20:33,631 - root - DEBUG - Date for Structures of NHBA elucidate a broadly conserved epitope identified by a vaccine induced antibody is 2018. Adding.
+2020-05-08 11:20:33,643 - root - DEBUG - Date for Structural consequences of transforming growth factor beta-1 activation from near-therapeutic X-ray doses is 2019. Adding.
+2020-05-08 11:20:33,655 - root - DEBUG - Date for Human Antibody Bispecifics through Phage Display Selection is 2019. Adding.
+2020-05-08 11:20:42,094 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=140&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:20:42,393 - root - DEBUG - Date for Development of a highly sensitive enzyme-linked immunosorbent assay (ELISA) through use of poly-protein G-expressing cell-based microplates is 2018. Adding.
+2020-05-08 11:20:42,402 - root - DEBUG - Date for Novel immunoassays for detection of CUZD1 autoantibodies in serum of patients with inflammatory bowel diseases is 2017. Adding.
+2020-05-08 11:20:42,411 - root - DEBUG - Date for Improving the developability of an antigen binding fragment by aspartate substitutions is 2019. Adding.
+2020-05-08 11:20:42,422 - root - DEBUG - Date for Development of a novel immunoassay to select antibodies against intact membrane antigens by using the homogeneous AlphaLISA system is 2018. Adding.
+2020-05-08 11:20:42,434 - root - DEBUG - Date for Preclinical evaluation of an anti-PSMA antibody-targeted amanitin conjugate (ATAC) is 2018. Adding.
+2020-05-08 11:20:42,443 - root - DEBUG - Date for The triggering receptor expressed on myeloid cells 2 binds apolipoprotein E is 2015. Not adding.
+2020-05-08 11:20:42,454 - root - DEBUG - Date for Architecture of the human PI4KIIIα lipid kinase complex is 2017. Adding.
+2020-05-08 11:20:42,466 - root - DEBUG - Date for Selection of antibodies with tailored properties by application of high-throughput multiparameter fluorescence-activated cell sorting of yeast-displayed immune … is 2018. Adding.
+2020-05-08 11:20:42,478 - root - DEBUG - Date for Site-Specific Conjugation of Thiol-Reactive Cytotoxic Agents to Nonnative Cysteines of Engineered Monoclonal Antibodies is 2019. Adding.
+2020-05-08 11:20:42,490 - root - DEBUG - Date for SpyLigase-Catalyzed Modification of Antibodies is 2019. Adding.
+2020-05-08 11:20:48,271 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=150&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:20:48,580 - root - DEBUG - Date for Toxicity Induced by a Bispecific T Cell–Redirecting Protein Is Mediated by Both T Cells and Myeloid Cells in Immunocompetent Mice is 2020. Adding.
+2020-05-08 11:20:48,588 - root - DEBUG - Date for Immunogenicity of NYVAC prime-protein boost HIV-1 envelope vaccination and SHIV challenge of nonhuman primates is 2018. Adding.
+2020-05-08 11:20:48,596 - root - ERROR - Could not get date for 全人源埃博拉病毒中和抗体的研究. Not adding.
+2020-05-08 11:20:48,606 - root - DEBUG - Date for Engineered sialylation of pathogenic antibodies in vivo attenuates autoimmune disease is 2018. Adding.
+2020-05-08 11:20:48,618 - root - DEBUG - Date for Non-acylated Wnts can promote signaling is 2019. Adding.
+2020-05-08 11:20:48,631 - root - DEBUG - Date for Adiponectin and related C1q/TNF-related proteins bind selectively to anionic phospholipids and sphingolipids is 2019. Adding.
+2020-05-08 11:20:48,644 - root - DEBUG - Date for In vitro assembly and stabilization of dengue and Zika virus envelope protein homo-dimers is 2017. Adding.
+2020-05-08 11:20:48,657 - root - ERROR - Could not get date for A novel bispecific antibody for EGFR-directed PD-1/PD-L1 immune checkpoint inhibition. Not adding.
+2020-05-08 11:20:48,669 - root - DEBUG - Date for Initial development of biosimilar immune checkpoint blockers using HEK293 cells is 2020. Adding.
+2020-05-08 11:20:48,680 - root - DEBUG - Date for Immunosuppressive effects of sialostatin L1 and L2 isolated from the taiga tick Ixodes persulcatus Schulze is 2020. Adding.
+2020-05-08 11:20:55,024 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=160&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:20:55,374 - root - DEBUG - Date for Cryo-EM reconstruction of a VPS13 fragment reveals a long groove to channel lipids between membranes is 2020. Adding.
+2020-05-08 11:20:55,383 - root - DEBUG - Date for Boosting of ALVAC-SIV vaccine-primed macaques with the CD4-SIVgp120 fusion protein elicits antibodies to V2 associated with a decreased risk of SIVmac251 … is 2016. Not adding.
+2020-05-08 11:20:55,391 - root - DEBUG - Date for The Depletion of TGF-β Co-Receptor CD109 Induces Erythroid Differentiation of TF-1 Cells: A Model of Preferential Commitment of PIGA-Mutated Hematopoietic Stem … is 2018. Adding.
+2020-05-08 11:20:55,399 - root - DEBUG - Date for Produce Gram-Scale Quantities on the Fly is 2016. Not adding.
+2020-05-08 11:20:55,409 - root - DEBUG - Date for Induction of avian β-defensin 2 is possibly mediated by the p38 MAPK signal pathway in chicken embryo fibroblasts after Newcastle disease virus infection is 2018. Adding.
+2020-05-08 11:20:55,417 - root - DEBUG - Date for Selective antibody activation through protease-activated pro-antibodies that mask binding sites with inhibitory domains is 2017. Adding.
+2020-05-08 11:20:55,429 - root - DEBUG - Date for Development of a Pan-H1 influenza vaccine is 2018. Adding.
+2020-05-08 11:20:55,442 - root - DEBUG - Date for Isolation of Antigen-Specific, Antibody-Secreting Cells Using a Chip-Based Immunospot Array is 2019. Adding.
+2020-05-08 11:20:55,453 - root - DEBUG - Date for Paired Carboxylic Acids in Enzymes and Their Role in Selective Substrate Binding, Catalysis, and Unusually Shifted pKa Values is 2019. Adding.
+2020-05-08 11:20:55,465 - root - DEBUG - Date for Full-length myocilin protein is purified from mammalian cells as a dimer is 2018. Adding.
+2020-05-08 11:21:03,369 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=170&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:21:03,838 - root - DEBUG - Date for Biochemical characterization and structure determination of a potent, selective antibody inhibitor of human MMP9 is 2017. Adding.
+2020-05-08 11:21:03,845 - root - DEBUG - Date for Lipid transport by TMEM24 at ER–plasma membrane contacts regulates pulsatile insulin secretion is 2017. Adding.
+2020-05-08 11:21:03,854 - root - DEBUG - Date for Design and assessment of TRAP-CSP fusion antigens as effective malaria vaccines is 2020. Adding.
+2020-05-08 11:21:03,867 - root - DEBUG - Date for Gareth Hall1, Eilish Cullen2, Kovilen Sawmynaden2, Joanne Arnold2, Simon Fox2, Richard Cowan1, Frederick W. Muskett1, David Matthews2, Andrew Merritt2 … is 2016. Not adding.
+2020-05-08 11:21:03,879 - root - DEBUG - Date for Enhanced broadband fluorescence detection of nucleic acids using multipolar gap-plasmons on biomimetic Au metasurfaces is 2019. Adding.
+2020-05-08 11:21:03,889 - root - DEBUG - Date for A Sensitive and Selective Immunoassay for the Quantitation of Serum Latent Myostatin after In Vivo Administration of SRK-015, a Selective Inhibitor of Myostatin … is 2020. Adding.
+2020-05-08 11:21:03,900 - root - DEBUG - Date for Antibodies targeting closely adjacent or minimally overlapping epitopes can displace one another is 2017. Adding.
+2020-05-08 11:21:03,913 - root - DEBUG - Date for Discovery of high affinity anti-ricin antibodies by B cell receptor sequencing and by yeast display of combinatorial VH:VL libraries from immunized animals is 2016. Not adding.
+2020-05-08 11:21:03,926 - root - DEBUG - Date for Structure and functional binding epitope of V-domain Ig suppressor of T cell activation is 2019. Adding.
+2020-05-08 11:21:03,937 - root - DEBUG - Date for A coreceptor-mimetic peptide enhances the potency of V3-glycan antibodies is 2019. Adding.
+2020-05-08 11:21:09,739 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=180&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:21:10,145 - root - DEBUG - Date for Novel CH1: CL interfaces that enhance correct light chain pairing in heterodimeric bispecific antibodies is 2017. Adding.
+2020-05-08 11:21:10,154 - root - DEBUG - Date for The first transmembrane region of complement component-9 acts as a brake on its self-assembly is 2018. Adding.
+2020-05-08 11:21:10,170 - root - DEBUG - Date for TLR9 signalling in HCV-associated atypical memory B cells triggers Th1 and rheumatoid factor autoantibody responses is 2019. Adding.
+2020-05-08 11:21:10,186 - root - DEBUG - Date for Site-Specific Antibody–Drug Conjugation Using Microbial Transglutaminase is 2019. Adding.
+2020-05-08 11:21:10,211 - root - DEBUG - Date for establishment and characterization of a fucosylated α-fetoprotein-specific monoclonal antibody: a potential application for clinical research is 2019. Adding.
+2020-05-08 11:21:10,230 - root - ERROR - Could not get date for Avaliação de diferentes sistemas de cultivo em escala de bancada para a expressão transiente de anticorpos monoclonais. Not adding.
+2020-05-08 11:21:10,248 - root - DEBUG - Date for Structural reconstruction of protein ancestry is 2017. Adding.
+2020-05-08 11:21:10,266 - root - DEBUG - Date for Sequencing and Affinity Determination of Antigen-Specific B Lymphocytes from Peripheral Blood is 2018. Adding.
+2020-05-08 11:21:10,279 - root - DEBUG - Date for Susceptibility of antibody CDR residues to chemical modifications can be revealed prior to antibody humanization and aid in the lead selection process is 2018. Adding.
+2020-05-08 11:21:10,293 - root - DEBUG - Date for eCD4-Ig promotes ADCC activity of sera from HIV-1-infected patients is 2017. Adding.
+2020-05-08 11:21:16,922 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=190&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:21:17,330 - root - DEBUG - Date for Measurement of Autoantibodies to Gastric H+, K+-ATPase (ATP4A/B) Using a Luciferase Immunoprecipitation System (LIPS) is 2019. Adding.
+2020-05-08 11:21:17,339 - root - DEBUG - Date for Functional modeling of NMIHBA-causing PRUNE1 variants reveals a requirement for its exopolyphosphatase activity. is 2020. Adding.
+2020-05-08 11:21:17,349 - root - DEBUG - Date for CryoEM structure of MxB reveals a novel oligomerization interface critical for HIV restriction is 2017. Adding.
+2020-05-08 11:21:17,360 - root - ERROR - Could not get date for Serum-free suspension system for lentiviral production. Not adding.
+2020-05-08 11:21:17,371 - root - DEBUG - Date for The Dynamic Strength of the Hair-Cell Tip Link Reveals Mechanisms of Hearing and Deafness is 2019. Adding.
+2020-05-08 11:21:17,384 - root - DEBUG - Date for TRAIL‐Inspired Multivalent Dextran Conjugates Efficiently Induce Apoptosis upon DR5 Receptor Clustering is 2019. Adding.
+2020-05-08 11:21:17,395 - root - DEBUG - Date for Engineering and stable production of recombinant IgE for cancer immunotherapy and AllergoOncology is 2018. Adding.
+2020-05-08 11:21:17,408 - root - DEBUG - Date for Genetic variants in C5 and poor response to eculizumab is 2014. Not adding.
+2020-05-08 11:21:17,422 - root - DEBUG - Date for In Planta Glycan Engineering and Functional Activities of IgE Antibodies is 2019. Adding.
+2020-05-08 11:21:17,435 - root - DEBUG - Date for Systematic evaluation of CRISPRa and CRISPRi modalities enables development of a multiplexed, orthogonal gene activation and repression system is 2019. Adding.
+2020-05-08 11:21:23,136 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=200&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:21:23,479 - root - DEBUG - Date for Engineering Highly Homogenous Tetravalent IgGs with Enhanced Sperm Agglutination Potency is 2020. Adding.
+2020-05-08 11:21:23,489 - root - DEBUG - Date for Sites associated with Kalydeco binding on human cystic fibrosis transmembrane conductance regulator revealed by hydrogen/deuterium exchange is 2018. Adding.
+2020-05-08 11:21:23,498 - root - DEBUG - Date for Functionally active Fc mutant antibodies recognizing cancer antigens generated rapidly at high yields is 2017. Adding.
+2020-05-08 11:21:23,508 - root - ERROR - Could not get date for Fusion protein SLIT2D2-HSA and its use in treatment of sepsis. Not adding.
+2020-05-08 11:21:23,520 - root - DEBUG - Date for Synthetic nanobodies targeting the SARS-CoV-2 receptor-binding domain is 2020. Adding.
+2020-05-08 11:21:23,532 - root - DEBUG - Date for The role of the light chain in the structure and binding activity of two cattle antibodies that neutralize bovine respiratory syncytial virus is 2019. Adding.
+2020-05-08 11:21:23,543 - root - DEBUG - Date for Transient expression of human antibodies in mammalian cells is 2018. Adding.
+2020-05-08 11:21:23,555 - root - DEBUG - Date for Antibodies against the erythroferrone N-terminal domain prevent hepcidin suppression and ameliorate murine thalassemia is 2020. Adding.
+2020-05-08 11:21:23,567 - root - DEBUG - Date for Structural and Kinetic Evidence of Aging after Organophosphate Inhibition of Human Cathepsin A is 2020. Adding.
+2020-05-08 11:21:23,578 - root - DEBUG - Date for Structure-based design of hepatitis C virus E2 glycoprotein improves serum binding and cross-neutralization is 2020. Adding.
+2020-05-08 11:21:29,380 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=210&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:21:29,778 - root - ERROR - Could not get date for Developing Receptor-Directed Synthetic Antagonists against the IL-23 Signal Transduction Pathway. Not adding.
+2020-05-08 11:21:29,789 - root - DEBUG - Date for A potent germline-like human monoclonal antibody targets a pH-sensitive epitope on H7N9 influenza hemagglutinin is 2017. Adding.
+2020-05-08 11:21:29,803 - root - DEBUG - Date for In vitro characterization of baloxavir acid, a first-in-class cap-dependent endonuclease inhibitor of the influenza virus polymerase PA subunit is 2018. Adding.
+2020-05-08 11:21:29,815 - root - DEBUG - Date for KIR3DL1 and HLA-B density and binding calibrate NK education and response to HIV is 2016. Not adding.
+2020-05-08 11:21:29,825 - root - DEBUG - Date for Optimization of surface display of DENV2 E protein on a nanoparticle to induce virus specific neutralizing antibody responses is 2018. Adding.
+2020-05-08 11:21:29,836 - root - DEBUG - Date for Coupling sensitive nucleic acid amplification with commercial pregnancy test strips is 2017. Adding.
+2020-05-08 11:21:29,847 - root - DEBUG - Date for HIV-dependent depletion of influenza-specific memory B cells impacts B cell responsiveness to seasonal influenza immunisation is 2016. Not adding.
+2020-05-08 11:21:29,859 - root - DEBUG - Date for TAK-925, an orexin 2 receptor-selective agonist, shows robust wake-promoting effects in mice is 2019. Adding.
+2020-05-08 11:21:29,870 - root - DEBUG - Date for Aurelija Mickeviˇciute, Vaida Juozapaitiene, Vilma Michailoviene, Jelena Jachno, Jurgita Matuliene, and Daumantas Matulis is 2019. Adding.
+2020-05-08 11:21:29,879 - root - DEBUG - Date for Rapid and Efficient Generation of Stable Antibody–Drug Conjugates via an Encoded Cyclopropene and an Inverse‐Electron‐Demand Diels–Alder Reaction is 2018. Adding.
+2020-05-08 11:21:38,403 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=220&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:21:38,751 - root - DEBUG - Date for A Bispecific Antibody That Simultaneously Recognizes the V2-and V3-Glycan Epitopes of the HIV-1 Envelope Glycoprotein Is Broader and More Potent than Its … is 2020. Adding.
+2020-05-08 11:21:38,760 - root - DEBUG - Date for Optimization of Zika virus envelope protein production for ELISA and correlation of antibody titers with virus neutralization in Mexican patients from an … is 2018. Adding.
+2020-05-08 11:21:38,771 - root - DEBUG - Date for Glycan masking focuses immune responses to the HIV-1 CD4-binding site and enhances elicitation of VRC01-class precursor antibodies is 2018. Adding.
+2020-05-08 11:21:38,782 - root - DEBUG - Date for Plasmablast antibody repertoires in elderly influenza vaccine responders exhibit restricted diversity but increased breadth of binding across influenza strains is 2018. Adding.
+2020-05-08 11:21:38,795 - root - DEBUG - Date for Structural studies of thyroid peroxidase show the monomer interacting with autoantibodies in thyroid autoimmune disease is 2020. Adding.
+2020-05-08 11:21:38,807 - root - DEBUG - Date for Functional relevance of improbable antibody mutations for HIV broadly neutralizing antibody development is 2018. Adding.
+2020-05-08 11:21:38,818 - root - DEBUG - Date for Immunogenicity of a prefusion HIV-1 envelope trimer in complex with a quaternary-structure-specific antibody is 2016. Not adding.
+2020-05-08 11:21:38,829 - root - ERROR - Could not get date for A Refined Protocol for Identifying Citrulline-specific Monoclonal Antibodies from Single Human B Cells from Rheumatoid Arthritis Patient Material. Not adding.
+2020-05-08 11:21:38,840 - root - DEBUG - Date for The leukodystrophy protein FAM126A (hyccin) regulates PtdIns (4) P synthesis at the plasma membrane is 2016. Not adding.
+2020-05-08 11:21:38,852 - root - DEBUG - Date for Mabfilin and Fabfilin-New antibody-scaffold fusion formats for multispecific targeting concepts is 2018. Adding.
+2020-05-08 11:21:48,160 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=230&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:21:48,524 - root - DEBUG - Date for VPS13A and VPS13C are lipid transport proteins differentially localized at ER contact sites is 2018. Adding.
+2020-05-08 11:21:48,534 - root - DEBUG - Date for Human protective monoclonal antibodies against the HA stem of group 2 HAs derived from an H3N2 virus-infected human is 2018. Adding.
+2020-05-08 11:21:48,545 - root - DEBUG - Date for Novel respiratory syncytial virus-like particle vaccine composed of the postfusion and prefusion conformations of the f glycoprotein is 2016. Not adding.
+2020-05-08 11:21:48,557 - root - DEBUG - Date for Molecular cloning and characterization of pirarucu (Arapaima gigas) follicle-stimulating hormone and luteinizing hormone β-subunit cDNAs is 2017. Adding.
+2020-05-08 11:21:48,569 - root - ERROR - Could not get date for King's Research Portal. Not adding.
+2020-05-08 11:21:48,577 - root - DEBUG - Date for ATG2 transports lipids to promote autophagosome biogenesis is 2019. Adding.
+2020-05-08 11:21:48,588 - root - DEBUG - Date for Structural analysis of the PTEN: P-Rex2 signalling node reveals how cancer-associated mutations coordinate to hyperactivate Rac1 is 2020. Adding.
+2020-05-08 11:21:48,600 - root - DEBUG - Date for Efficacy of an adjuvanted Middle East respiratory syndrome coronavirus spike protein vaccine in dromedary camels and alpacas is 2019. Adding.
+2020-05-08 11:21:48,609 - root - DEBUG - Date for Helicobacter pylori adhesin HopQ engages in a virulence-enhancing interaction with human CEACAMs is 2016. Not adding.
+2020-05-08 11:21:48,621 - root - DEBUG - Date for KIR3DS1-specific D0 domain polymorphisms disrupt KIR3DL1 surface expression and HLA binding is 2015. Not adding.
+2020-05-08 11:21:54,905 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=240&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:21:55,231 - root - DEBUG - Date for Identification of ligand-selective peptidic ActRIIB-antagonists using phage display technology is 2017. Adding.
+2020-05-08 11:21:55,240 - root - DEBUG - Date for Structural and Biophysical Analysis of the Calcium-Activated Chloride Channel Regulator 1 (CLCA1) VWA Domain Suggests Mode of TMEM16A Engagement is 2019. Adding.
+2020-05-08 11:21:55,250 - root - DEBUG - Date for Engineering synucleinopathy‐resistant human dopaminergic neurons by CRISPR‐mediated deletion of the SNCA gene is 2019. Adding.
+2020-05-08 11:21:55,260 - root - DEBUG - Date for Dual Function pH Responsive Bispecific Antibodies for Tumor Targeting and Antigen Depletion is 2019. Adding.
+2020-05-08 11:21:55,271 - root - DEBUG - Date for Sac2/INPP5F is an inositol 4-phosphatase that functions in the endocytic pathway is 2015. Not adding.
+2020-05-08 11:21:55,282 - root - DEBUG - Date for Leader sequences are not signal peptides is 2004. Not adding.
+2020-05-08 11:21:55,293 - root - DEBUG - Date for Antitumor effect of programmed death-1 (PD-1) blockade in humanized the NOG-MHC double knockout mouse is 2017. Adding.
+2020-05-08 11:21:55,305 - root - DEBUG - Date for Elimination of large tumors in mice by mRNA-encoded bispecific antibodies is 2017. Adding.
+2020-05-08 11:21:55,318 - root - DEBUG - Date for Directed evolution of super-secreted variants from phage-displayed human Interleukin-2 is 2019. Adding.
+2020-05-08 11:21:55,329 - root - DEBUG - Date for Recombinant Production of 12 Catalytically Active Human CA Isoforms is 2019. Adding.
+2020-05-08 11:22:01,006 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=250&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:22:01,319 - root - DEBUG - Date for Afucosylated maternal anti-dengue IgGs are a biomarker for susceptibility to dengue disease in their infants is 2019. Adding.
+2020-05-08 11:22:01,328 - root - DEBUG - Date for Quantitative assessment of antibody internalization with novel monoclonal antibodies against Alexa fluorophores is 2015. Not adding.
+2020-05-08 11:22:01,339 - root - DEBUG - Date for Yeast surface display platform for rapid discovery of conformationally selective nanobodies is 2018. Adding.
+2020-05-08 11:22:01,353 - root - DEBUG - Date for Investigation of relationship between EBNA-1 expression level and specific foreign protein productivity in transient gene expression of HEK293 cells is 2017. Adding.
+2020-05-08 11:22:01,363 - root - DEBUG - Date for A novel LIPS assay for insulin autoantibodies is 2018. Adding.
+2020-05-08 11:22:01,375 - root - DEBUG - Date for Preclinical evaluation of Hdp-101, a novel anti-Bcma antibody-drug conjugate, in multiple myeloma is 2017. Adding.
+2020-05-08 11:22:01,387 - root - DEBUG - Date for In vivo neutralization of dendrotoxin-mediated neurotoxicity of black mamba venom by oligoclonal human IgG antibodies is 2018. Adding.
+2020-05-08 11:22:01,397 - root - DEBUG - Date for 開發精準標訂和主動吸引 PEG 奈米藥物的雙功能抗體以產生加成抗癌療效 is 2014. Not adding.
+2020-05-08 11:22:01,409 - root - DEBUG - Date for Multisystem proteinopathy mutations in VCP/p97 increase NPLOC4· UFD1L binding and substrate processing is 2019. Adding.
+2020-05-08 11:22:01,421 - root - ERROR - Could not get date for A Potent Germline-Like Human Monoclonal Antibody Targeting a Novel pH-Sensitive Epitope on H7N9 Influenza Hemagglutinin. Not adding.
+2020-05-08 11:22:08,910 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=260&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:22:09,444 - root - DEBUG - Date for Anti-HIV IgM protects against mucosal SHIV transmission. is 2018. Adding.
+2020-05-08 11:22:09,452 - root - DEBUG - Date for Discovery of GPX4 inhibitory peptides from random peptide T7 phage display and subsequent structural analysis is 2017. Adding.
+2020-05-08 11:22:09,462 - root - DEBUG - Date for Biochemical characterization of human tissue kallikrein 15 and examination of its potential role in cancer is 2018. Adding.
+2020-05-08 11:22:09,470 - root - DEBUG - Date for Immunological effects of the anti-programmed death-1 antibody on human peripheral blood mononuclear cells is 2016. Not adding.
+2020-05-08 11:22:09,484 - root - DEBUG - Date for Cryo-EM structure of Chikungunya virus in complex with the Mxra8 receptor is 2019. Adding.
+2020-05-08 11:22:09,496 - root - DEBUG - Date for Transient expression of Fc-fused human glycoprotein 130 in Expi293F suspension cells is 2016. Not adding.
+2020-05-08 11:22:09,510 - root - DEBUG - Date for Uptake of 111In-labeled fully human monoclonal antibody TSP-A18 reflects transferrin receptor expression in normal organs and tissues of mice is 2017. Adding.
+2020-05-08 11:22:09,519 - root - ERROR - Could not get date for Soluble Universal ADCC-Enhancing Synthetic Fusion Gene and Peptide Technology and Its Use Thereof. Not adding.
+2020-05-08 11:22:09,529 - root - DEBUG - Date for PET imaging of 64Cu-DOTA-scFv-anti-PSMA lipid nanoparticles (LNPs): Enhanced tumor targeting over anti-PSMA scFv or untargeted LNPs is 2017. Adding.
+2020-05-08 11:22:09,539 - root - DEBUG - Date for Site-selective antibody functionalization via orthogonally reactive arginine and lysine residues is 2019. Adding.
+2020-05-08 11:22:19,355 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=270&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:22:19,760 - root - DEBUG - Date for Transient Gene Expression‐Based Protein Production in Recombinant Mammalian Cells is 2019. Adding.
+2020-05-08 11:22:19,772 - root - DEBUG - Date for Optimization and automation of an end‐to‐end high throughput microscale transient protein production process is 2015. Not adding.
+2020-05-08 11:22:19,783 - root - DEBUG - Date for A One-Step Process for the Construction of Phage Display scFv and VHH Libraries is 2020. Adding.
+2020-05-08 11:22:19,794 - root - ERROR - Could not get date for P048 Predictive value of the different capillaroscopic patterns in early raynaud phenomenon. Not adding.
+2020-05-08 11:22:19,806 - root - ERROR - Could not get date for Preclinical evaluation of anti-HER2 Antibody Targeted Amanitin Conjugates (ATACs) on HER2low breast cancer with chromosome 17p deletion. Not adding.
+2020-05-08 11:22:19,818 - root - DEBUG - Date for Generation of the Rat Monoclonal Antibody Against the Extracellular Domain of Human CD63 by DNA Immunization is 2020. Adding.
+2020-05-08 11:22:19,828 - root - ERROR - Could not get date for VetCore-Facility for Research. Not adding.
+2020-05-08 11:22:19,841 - root - ERROR - Could not get date for Supplementary Methods, Figures 1–11, and Tables 1–4. Not adding.
+2020-05-08 11:22:19,853 - root - DEBUG - Date for Expression and purification of recombinant G protein-coupled receptors: A review is 2020. Adding.
+2020-05-08 11:22:19,867 - root - DEBUG - Date for Characterization of a prefusion-specific antibody that recognizes a quaternary, cleavage-dependent epitope on the RSV fusion glycoprotein is 2015. Not adding.
+2020-05-08 11:22:28,732 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=280&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:22:29,173 - root - DEBUG - Date for Effects of bovine tumor necrosis factor alpha decoy receptors on cell death and inflammatory cytokine kinetics: potential for bovine inflammation therapy is 2019. Adding.
+2020-05-08 11:22:29,182 - root - DEBUG - Date for Systematic identification of engineered methionines and oxaziridines for efficient, stable, and site-specific antibody bioconjugation is 2020. Adding.
+2020-05-08 11:22:29,198 - root - DEBUG - Date for Antitumor activity, pharmacokinetics, tumor-homing effect, and hepatotoxicity of a species cross-reactive c-Met antibody is 2017. Adding.
+2020-05-08 11:22:29,210 - root - DEBUG - Date for Bivalent brain shuttle increases antibody uptake by monovalent binding to the transferrin receptor is 2017. Adding.
+2020-05-08 11:22:29,224 - root - DEBUG - Date for Antibodies and superantibodies in patients with chronic rhinosinusitis with nasal polyps is 2017. Adding.
+2020-05-08 11:22:29,238 - root - DEBUG - Date for IgA tetramerization improves target breadth but not peak potency of functionality of anti-influenza virus broadly neutralizing antibody is 2019. Adding.
+2020-05-08 11:22:29,248 - root - DEBUG - Date for Novel immunomodulatory proteins generated via directed evolution of variant IgSF domains is 2008. Not adding.
+2020-05-08 11:22:29,260 - root - DEBUG - Date for Analysis of pre-existing IgG and IgM antibodies against polyethylene glycol (PEG) in the general population is 2016. Not adding.
+2020-05-08 11:22:29,270 - root - DEBUG - Date for Identification and characterization of M6903, an antagonistic anti–TIM-3 monoclonal antibody is 2020. Adding.
+2020-05-08 11:22:29,281 - root - DEBUG - Date for Novel HPLC-based screening method to assess developability of antibody-like molecules is 2017. Adding.
+2020-05-08 11:22:38,455 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=290&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:22:38,781 - root - DEBUG - Date for Extending human IgG half-life using structure-guided design is 2018. Adding.
+2020-05-08 11:22:38,789 - root - DEBUG - Date for The sequence of human ACE2 is suboptimal for binding the S spike protein of SARS coronavirus 2 is 2020. Adding.
+2020-05-08 11:22:38,798 - root - ERROR - Could not get date for SI Appendix. Not adding.
+2020-05-08 11:22:38,807 - root - ERROR - Could not get date for Humanized anti-IGE antibodies that crosslink CD23 on B lymphocytes but do not sensitize mast cells. Not adding.
+2020-05-08 11:22:38,818 - root - DEBUG - Date for Polyethyleneimine-based transient gene expression processes for suspension-adapted HEK-293E and CHO-DG44 cells is 2013. Not adding.
+2020-05-08 11:22:38,832 - root - DEBUG - Date for Silencing Fc Domains in T cell–Engaging Bispecific Antibodies Improves T-cell Trafficking and Antitumor Potency is 2019. Adding.
+2020-05-08 11:22:38,845 - root - DEBUG - Date for Extracellular vesicles induce minimal hepatotoxicity and immunogenicity is 2019. Adding.
+2020-05-08 11:22:38,857 - root - DEBUG - Date for Streamlined Expressed Protein Ligation: Site-Specific Antibody–Drug Conjugate is 2020. Adding.
+2020-05-08 11:22:38,870 - root - DEBUG - Date for Enhanced drug internalization and therapeutic efficacy of PEGylated nanoparticles by one-step formulation with anti-mPEG bispecific antibody in intrinsic drug … is 2019. Adding.
+2020-05-08 11:22:38,881 - root - DEBUG - Date for Facile discovery of a diverse panel of anti-Ebola virus antibodies by immune repertoire mining is 2015. Not adding.
+2020-05-08 11:22:45,280 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=300&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:22:45,609 - root - DEBUG - Date for Elevated serum autoantibodies against co-inhibitory PD-1 facilitate T cell proliferation and correlate with disease activity in new-onset systemic lupus … is 2017. Adding.
+2020-05-08 11:22:45,617 - root - DEBUG - Date for Expression and characterization of recombinant, tetrameric and enzymatically active influenza neuraminidase for the setup of an enzyme-linked lectin-based … is 2015. Not adding.
+2020-05-08 11:22:45,627 - root - DEBUG - Date for Design and characterization of a fusion glycoprotein vaccine for Respiratory Syncytial Virus with improved stability is 2018. Adding.
+2020-05-08 11:22:45,638 - root - DEBUG - Date for Discovery of artificial VIPR2-antagonist peptides possessing receptor-and ligand-selectivity is 2018. Adding.
+2020-05-08 11:22:45,650 - root - DEBUG - Date for The structure of SDS22 provides insights into the mechanism of heterodimer formation with PP1 is 2018. Adding.
+2020-05-08 11:22:45,663 - root - DEBUG - Date for A novel one-step approach for the construction of yeast surface display Fab antibody libraries is 2018. Adding.
+2020-05-08 11:22:45,673 - root - DEBUG - Date for A novel method for immobilization of proteins via entrapment of magnetic nanoparticles through epoxy cross-linking is 2017. Adding.
+2020-05-08 11:22:45,683 - root - DEBUG - Date for Breadth and functionality of varicella-zoster virus glycoprotein-specific antibodies identified after Zostavax vaccination in humans is 2018. Adding.
+2020-05-08 11:22:45,695 - root - DEBUG - Date for Development and validation of monoclonal antibodies against N6-methyladenosine for the detection of RNA modifications is 2019. Adding.
+2020-05-08 11:22:45,705 - root - DEBUG - Date for Approaching infinite affinity through engineering of peptide–protein interaction is 2019. Adding.
+2020-05-08 11:22:54,635 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=310&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:22:55,061 - root - DEBUG - Date for A human bi-specific antibody against Zika virus with high therapeutic potential is 2017. Adding.
+2020-05-08 11:22:55,071 - root - DEBUG - Date for Synthetic Modular Antibody Construction by Using the SpyTag/SpyCatcher Protein‐Ligase System is 2017. Adding.
+2020-05-08 11:22:55,080 - root - DEBUG - Date for Pharmacology of recombinant adeno-associated virus production is 2018. Adding.
+2020-05-08 11:22:55,089 - root - DEBUG - Date for Antibodies elicited by an NS1-based vaccine protect mice against zika virus is 2019. Adding.
+2020-05-08 11:22:55,100 - root - DEBUG - Date for High-Titer Recombinant Protein Production: Employing the ExpiSf™ Chemically Defined Sf9 Insect Cell Expression System is 2018. Adding.
+2020-05-08 11:22:55,111 - root - DEBUG - Date for LAG-3 inhibits the activation of CD4+ T cells that recognize stable pMHCII through its conformation-dependent recognition of pMHCII is 2018. Adding.
+2020-05-08 11:22:55,123 - root - DEBUG - Date for 翻訳論文: ヒト頭頸部扁平上皮癌の微小環境における マトリックスメタロプロテナーゼを介した PD-1 リガンドの調節機構 is 2018. Adding.
+2020-05-08 11:22:55,133 - root - DEBUG - Date for Conventional and chemically programmed asymmetric bispecific antibodies targeting folate receptor 1 is 2019. Adding.
+2020-05-08 11:22:55,144 - root - ERROR - Could not get date for Generation and Formatting of an Affimer® Biotherapeutic for the Inhibition of the PD-L1/PD-1 Pathway: Proof of Concept in Mouse.. Not adding.
+2020-05-08 11:22:55,154 - root - DEBUG - Date for Generation of therapeutic immunoconjugates via Residue-Specific Conjugation Technology (RESPECT) utilizing a native cysteine in the light chain framework of … is 2017. Adding.
+2020-05-08 11:23:04,778 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=320&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:23:05,152 - root - DEBUG - Date for Characterization of a novel anti-human lymphocyte activation gene 3 (LAG-3) antibody for cancer immunotherapy is 2019. Adding.
+2020-05-08 11:23:05,161 - root - DEBUG - Date for Improved secretion of glycoproteins using an N-glycan-restricted passport sequence tag recognized by cargo receptor is 2020. Adding.
+2020-05-08 11:23:05,171 - root - DEBUG - Date for Negative Regulation of TLR Signaling by BCAP Requires Dimerization of Its DBB Domain is 2020. Adding.
+2020-05-08 11:23:05,185 - root - DEBUG - Date for Difficult-to-neutralize global HIV-1 isolates are neutralized by antibodies targeting open envelope conformations is 2019. Adding.
+2020-05-08 11:23:05,197 - root - DEBUG - Date for Agonist Antibody Converts Stem Cells into Migrating Brown Adipocyte-Like Cells in Heart is 2020. Adding.
+2020-05-08 11:23:05,209 - root - DEBUG - Date for Immunological memory to hyperphosphorylated tau in asymptomatic individuals is 2017. Adding.
+2020-05-08 11:23:05,218 - root - DEBUG - Date for A truncated form of HpARI stabilises IL-33, amplifying responses to the cytokine. is 2020. Adding.
+2020-05-08 11:23:05,229 - root - DEBUG - Date for Generation of recombinant monoclonal antibodies from single B cells isolated from synovial tissue of rheumatoid arthritis patients is 2018. Adding.
+2020-05-08 11:23:05,239 - root - DEBUG - Date for Discovery of a novel splice variant of Fcar (CD89) unravels sequence segments necessary for efficient secretion: a story of bad signal peptides and good ones that … is 2017. Adding.
+2020-05-08 11:23:05,252 - root - DEBUG - Date for Monoclonal human IgGs capable of neutralizing elapid neurotoxins in vivo is 2019. Adding.
+2020-05-08 11:23:10,633 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=330&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:23:11,154 - root - DEBUG - Date for A platform for extracellular interactome discovery identifies novel functional binding partners for the immune receptors B7-H3/CD276 and PVR/CD155 is 2019. Adding.
+2020-05-08 11:23:11,164 - root - DEBUG - Date for Glycan characterization of pregnancy-specific glycoprotein 1 and its identification as a novel Galectin-1 ligand is 2020. Adding.
+2020-05-08 11:23:11,173 - root - DEBUG - Date for Arming an oncolytic herpes simplex virus type 1 with a single-chain fragment variable antibody against PD-1 for experimental glioblastoma therapy is 2019. Adding.
+2020-05-08 11:23:11,184 - root - DEBUG - Date for High-Throughput IgG Reformatting and Expression is 2018. Adding.
+2020-05-08 11:23:11,196 - root - ERROR - Could not get date for Supporting Information Appendix for. Not adding.
+2020-05-08 11:23:11,206 - root - DEBUG - Date for Comparison of immune responses to different versions of VLP associated stabilized RSV pre-fusion F protein is 2019. Adding.
+2020-05-08 11:23:11,218 - root - DEBUG - Date for Effects of full-length human amelogenin on the differentiation of dental epithelial cells and osteoblastic cells is 2019. Adding.
+2020-05-08 11:23:11,230 - root - DEBUG - Date for A fully automated method for the determination of serum belatacept and its application in a pharmacokinetic investigation in renal transplant recipients is 2019. Adding.
+2020-05-08 11:23:11,240 - root - DEBUG - Date for Structural basis of STING binding with and phosphorylation by TBK1 is 2019. Adding.
+2020-05-08 11:23:11,253 - root - DEBUG - Date for Functional enrichment and analysis of Antigen-Specific memory B cell antibody repertoires in PBMCs is 2019. Adding.
+2020-05-08 11:23:18,655 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=340&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:23:19,010 - root - DEBUG - Date for Treating Tissue Factor–Positive Cancers with Antibody–Drug Conjugates That Do Not Affect Blood Clotting is 2018. Adding.
+2020-05-08 11:23:19,019 - root - DEBUG - Date for Frequent use of the IgA isotype in human B cells encoding potent norovirus-specific monoclonal antibodies that block HBGA binding is 2016. Not adding.
+2020-05-08 11:23:19,029 - root - DEBUG - Date for Heterogeneity of auto-antibodies against nAChR in myasthenic serum and their pathogenic roles in experimental autoimmune myasthenia gravis is 2018. Adding.
+2020-05-08 11:23:19,043 - root - DEBUG - Date for Improving the developability of an anti-EphA2 single-chain variable fragment for nanoparticle targeting is 2017. Adding.
+2020-05-08 11:23:19,052 - root - DEBUG - Date for CD40 Enhances Type I Interferon Responses Downstream of CD47 Blockade, Bridging Innate and Adaptive Immunity is 2020. Adding.
+2020-05-08 11:23:19,062 - root - DEBUG - Date for Parallel loading and complete automation of a 3-step mAb purification process for multiple samples using a customized preparative chromatography instrument with … is 2018. Adding.
+2020-05-08 11:23:19,072 - root - DEBUG - Date for Fc-Based Recombinant Henipavirus Vaccines Elicit Broad Neutralizing Antibody Responses in Mice is 2020. Adding.
+2020-05-08 11:23:19,084 - root - DEBUG - Date for Expression of human lambda expands the repertoire of OmniChickens is 2020. Adding.
+2020-05-08 11:23:19,093 - root - DEBUG - Date for Antibody-based in vivo PET imaging detects amyloid-β reduction in Alzheimer transgenic mice after BACE-1 inhibition is 2018. Adding.
+2020-05-08 11:23:19,107 - root - DEBUG - Date for Cartilage-targeted IGF-1 treatment to promote longitudinal bone growth is 2019. Adding.
+2020-05-08 11:23:25,755 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=350&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:23:26,255 - root - ERROR - Could not get date for Modular protein expression by RNA trans-splicing enables flexible expression of antibody formats in mammalian cells from a dual-host phage display vector. Not adding.
+2020-05-08 11:23:26,263 - root - DEBUG - Date for Herpes simplex virus-binding IgG traps HSV in human cervicovaginal mucus across the menstrual cycle and diverse vaginal microbial composition is 2018. Adding.
+2020-05-08 11:23:26,272 - root - DEBUG - Date for Targeting CLDN18. 2 by CD3 bispecific and ADC modalities for the treatments of gastric and pancreatic cancer is 2019. Adding.
+2020-05-08 11:23:26,284 - root - DEBUG - Date for Design and characterization of mutant and wildtype huntingtin proteins produced from a toolkit of scalable eukaryotic expression systems is 2019. Adding.
+2020-05-08 11:23:26,295 - root - DEBUG - Date for DNA transfer into animal cells using stearylated CPP based transfection reagent is 2015. Not adding.
+2020-05-08 11:23:26,306 - root - DEBUG - Date for Immunogenicity of NYVAC prime-protein boost human immunodeficiency virus type 1 envelope vaccination and simian-human immunodeficiency virus challenge of … is 2018. Adding.
+2020-05-08 11:23:26,318 - root - DEBUG - Date for A robust robotic high-throughput antibody purification platform is 2016. Not adding.
+2020-05-08 11:23:26,330 - root - DEBUG - Date for Multiplex analysis of antigen-specific memory B cells in humans using reversed B-cell FluoroSpot is 2020. Adding.
+2020-05-08 11:23:26,343 - root - DEBUG - Date for Three pentraxins C-reactive protein, serum amyloid p component and pentraxin 3 mediate complement activation using Collectin CL-P1 is 2017. Adding.
+2020-05-08 11:23:26,355 - root - DEBUG - Date for Delivery of femtolitre droplets using surface acoustic wave based atomisation for cryo-EM grid preparation is 2018. Adding.
+2020-05-08 11:23:35,077 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=360&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:23:35,587 - root - DEBUG - Date for Human monoclonal antibodies potently neutralize Zika virus and select for escape mutations on the lateral ridge of the envelope protein is 2019. Adding.
+2020-05-08 11:23:35,596 - root - DEBUG - Date for A Computationally Optimized Broadly Reactive Antigen Subtype–Specific Influenza Vaccine Strategy Elicits Unique Potent Broadly Neutralizing Antibodies against … is 2020. Adding.
+2020-05-08 11:23:35,606 - root - DEBUG - Date for ALX148 blocks CD47 and enhances innate and adaptive antitumor immunity with a favorable safety profile is 2018. Adding.
+2020-05-08 11:23:35,622 - root - DEBUG - Date for Immune checkpoint inhibitor PD-1 pathway is down-regulated in synovium at various stages of rheumatoid arthritis disease progression is 2018. Adding.
+2020-05-08 11:23:35,633 - root - DEBUG - Date for Preparation of Phosphorylated Proteins for NMR Spectroscopy is 2019. Adding.
+2020-05-08 11:23:35,644 - root - DEBUG - Date for Activation of latent transforming growth factor-β1, a conserved function for pregnancy-specific beta 1-glycoproteins is 2018. Adding.
+2020-05-08 11:23:35,654 - root - DEBUG - Date for Structure and Functional Binding Epitope of V-domain Ig Suppressor of T-cell Activation (VISTA) is 2019. Adding.
+2020-05-08 11:23:35,664 - root - DEBUG - Date for Architecture of the heteromeric GluA1/2 AMPA receptor in complex with the auxiliary subunit TARP γ8 is 2019. Adding.
+2020-05-08 11:23:35,675 - root - DEBUG - Date for Requirement for memory B-cell activation in protection from heterologous influenza virus reinfection is 2019. Adding.
+2020-05-08 11:23:35,683 - root - DEBUG - Date for Specific inhibition of myostatin activation is beneficial in mouse models of SMA therapy is 2019. Adding.
+2020-05-08 11:23:41,755 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=370&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:23:42,179 - root - DEBUG - Date for Re‐evaluation of mouse tissue factor pathway inhibitor and comparison of mouse and human tissue factor pathway inhibitor physiology is 2018. Adding.
+2020-05-08 11:23:42,189 - root - DEBUG - Date for A BRET-based homogeneous insulin assay using interacting domains in the primary binding site of the insulin receptor is 2015. Not adding.
+2020-05-08 11:23:42,198 - root - DEBUG - Date for Crystal structure of a human plasma membrane phospholipid flippase is 2019. Adding.
+2020-05-08 11:23:42,211 - root - DEBUG - Date for Roles of the disulfide bond between the variable and the constant domains of rabbit immunoglobulin kappa chains in thermal stability and affinity is 2018. Adding.
+2020-05-08 11:23:42,223 - root - DEBUG - Date for Site-specific antibody drug conjugates using streamlined expressed protein ligation is 2018. Adding.
+2020-05-08 11:23:42,235 - root - DEBUG - Date for High-efficiency secretory expression of human neutrophil gelatinase-associated lipocalin from mammalian cell lines with human serum albumin signal peptide is 2016. Not adding.
+2020-05-08 11:23:42,246 - root - DEBUG - Date for Optimizing selectivity of anion hydrophobic multimodal chromatography for purification of a single‐chain variable fragment is 2019. Adding.
+2020-05-08 11:23:42,259 - root - DEBUG - Date for Engineered bispecific antibodies with exquisite HIV-1-neutralizing activity is 2016. Not adding.
+2020-05-08 11:23:42,268 - root - DEBUG - Date for Analysis of relationships between polymorphisms in the genes encoding the pentameric complex and neutralization of clinical cytomegalovirus isolates is 2018. Adding.
+2020-05-08 11:23:42,278 - root - DEBUG - Date for TR1801‐ADC: a highly potent cMet antibody–drug conjugate with high activity in patient‐derived xenograft models of solid tumors is 2020. Adding.
+2020-05-08 11:23:49,643 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=380&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:23:50,083 - root - DEBUG - Date for Exploring the potential of mucin 13 (MUC13) as a biomarker for carcinomas and other diseases is 2018. Adding.
+2020-05-08 11:23:50,091 - root - ERROR - Could not get date for Slit2d2-hsa fusion protein and use thereof against tumours. Not adding.
+2020-05-08 11:23:50,102 - root - ERROR - Could not get date for Current views on Zika virus vaccine development. Not adding.
+2020-05-08 11:23:50,111 - root - DEBUG - Date for Differential AcpA binding to nuclear antigens reveals a PAD-Independent pathway and a distinct subset of acetylation cross-reactive autoantibodies in … is 2019. Adding.
+2020-05-08 11:23:50,120 - root - DEBUG - Date for ErbB activation signatures as potential biomarkers for anti-ErbB3 treatment in HNSCC is 2017. Adding.
+2020-05-08 11:23:50,130 - root - DEBUG - Date for Design principles for bispecific IgGs, opportunities and pitfalls of artificial disulfide bonds is 2018. Adding.
+2020-05-08 11:23:50,140 - root - DEBUG - Date for Development of envelope protein antigens to serologically differentiate Zika virus infection from dengue virus infection is 2018. Adding.
+2020-05-08 11:23:50,152 - root - DEBUG - Date for Collectin CL-P1 utilizes C-reactive protein for complement activation is 2016. Not adding.
+2020-05-08 11:23:50,168 - root - DEBUG - Date for Human cell lines for the production of recombinant proteins: on the horizon is 2015. Not adding.
+2020-05-08 11:23:50,178 - root - DEBUG - Date for Engineering highly multivalent sperm-binding IgG antibodies for potent non-hormonal female contraception is 2020. Adding.
+2020-05-08 11:23:56,035 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=390&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:23:56,502 - root - DEBUG - Date for Antibody-based assay discriminates Zika virus infection from other flaviviruses is 2017. Adding.
+2020-05-08 11:23:56,509 - root - DEBUG - Date for Anti-influenza hyperimmune immunoglobulin enhances Fc-functional antibody immunity during human influenza infection is 2018. Adding.
+2020-05-08 11:23:56,517 - root - DEBUG - Date for Potent neutralizing monoclonal antibodies against Ebola virus isolated from vaccinated donors is 2020. Adding.
+2020-05-08 11:23:56,528 - root - DEBUG - Date for Evaluation of antigen-conjugated fluorescent beads to identify antigen-specific B cells is 2018. Adding.
+2020-05-08 11:23:56,539 - root - DEBUG - Date for Neutralization of Zika virus by germline-like human monoclonal antibodies targeting cryptic epitopes on envelope domain III is 2017. Adding.
+2020-05-08 11:23:56,551 - root - DEBUG - Date for Novel multi-targeted inhibitors suppress ocular neovascularization by regulating unique gene sets is 2019. Adding.
+2020-05-08 11:23:56,562 - root - DEBUG - Date for A novel bispecific antibody for EGFR-directed blockade of the PD-1/PD-L1 immune checkpoint is 2018. Adding.
+2020-05-08 11:23:56,573 - root - DEBUG - Date for Diffusion of Soluble Aggregates of THIOMABs and Bispecific Antibodies in Serum is 2017. Adding.
+2020-05-08 11:23:56,586 - root - DEBUG - Date for Trophoblast Glycoprotein is Associated With a Favorable Outcome for Mesothelioma and a Target for Antibody Drug Conjugates is 2018. Adding.
+2020-05-08 11:23:56,596 - root - DEBUG - Date for Neuraminidase inhibition contributes to influenza A virus neutralization by anti-hemagglutinin stem antibodies is 2019. Adding.
+2020-05-08 11:24:03,454 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=400&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:24:03,830 - root - DEBUG - Date for Functional insights from biophysical study of TREM2 interactions with ApoE and Aβ1-42 is 2020. Adding.
+2020-05-08 11:24:03,839 - root - DEBUG - Date for Recombinant human monoclonal HLA antibodies of different IgG subclasses recognising the same epitope: Excellent tools to study differential effects of donor … is 2019. Adding.
+2020-05-08 11:24:03,850 - root - DEBUG - Date for Design and characterization of novel dual Fc antibody with enhanced avidity for Fc receptors is 2019. Adding.
+2020-05-08 11:24:03,863 - root - DEBUG - Date for An engineered human Fc variant with exquisite selectivity for FcγRIIIaV158 reveals that ligation of FcγRIIIa mediates potent antibody dependent cellular phagocytosis … is 2019. Adding.
+2020-05-08 11:24:03,874 - root - DEBUG - Date for A novel cell-free, non-fluorescent method to measure lox-1-binding activity corresponding to the functional activity of hdl is 2019. Adding.
+2020-05-08 11:24:03,884 - root - DEBUG - Date for Calcium phosphate nanoneedle based gene delivery system for cancer genetic immunotherapy is 2020. Adding.
+2020-05-08 11:24:03,895 - root - DEBUG - Date for Virus-like particle vaccines: immunology and formulation for clinical translation is 2018. Adding.
+2020-05-08 11:24:03,905 - root - ERROR - Could not get date for Novel bispecific antibody format. Not adding.
+2020-05-08 11:24:03,917 - root - DEBUG - Date for A novel and simple method to produce large amounts of recombinant soluble peptide/major histocompatibility complex monomers for analysis of antigen-specific … is 2019. Adding.
+2020-05-08 11:24:03,929 - root - DEBUG - Date for A single substitution in gp41 modulates the neutralization profile of SHIV during in vivo adaptation is 2019. Adding.
+2020-05-08 11:24:13,154 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=410&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:24:13,513 - root - DEBUG - Date for Development of R7BP inhibitors through cross-linking coupled mass spectrometry and integrated modeling is 2019. Adding.
+2020-05-08 11:24:13,525 - root - DEBUG - Date for A Mechanically Weak Extracellular Membrane-Adjacent Domain Induces Dimerization of Protocadherin-15 is 2018. Adding.
+2020-05-08 11:24:13,534 - root - DEBUG - Date for Trispecific antibodies enhance the therapeutic efficacy of tumor-directed T cells through T cell receptor co-stimulation is 2020. Adding.
+2020-05-08 11:24:13,547 - root - DEBUG - Date for No evidence of pancreatic ductal adenocarcinoma specific autoantibodies to Ezrin in a liquid phase LIPS immunoassay is 2018. Adding.
+2020-05-08 11:24:13,559 - root - DEBUG - Date for Structure and immunogenicity of pre-fusion-stabilized human metapneumovirus F glycoprotein is 2017. Adding.
+2020-05-08 11:24:13,570 - root - DEBUG - Date for Optimizing regulatable gene expression using adenoviral vectors is 2005. Not adding.
+2020-05-08 11:24:13,582 - root - DEBUG - Date for Scale up and pharmacokinetic study of a novel mutated chimeric tissue plasminogen activator (mt-PA) in rats is 2017. Adding.
+2020-05-08 11:24:13,593 - root - DEBUG - Date for Synthesis, positron emission tomography imaging, and therapy of diabody targeted drug lipid nanoparticles in a prostate cancer murine model is 2017. Adding.
+2020-05-08 11:24:13,605 - root - DEBUG - Date for Disruption of the HIV-1 Envelope allosteric network blocks CD4-induced rearrangements is 2020. Adding.
+2020-05-08 11:24:13,617 - root - DEBUG - Date for Humoral immune pressure selects for HIV-1 CXC-chemokine receptor 4-using variants is 2016. Not adding.
+2020-05-08 11:24:22,465 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=420&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:24:22,989 - root - DEBUG - Date for The Binding of Human IgG to Minipig FcγRs–Implications for Preclinical Assessment of Therapeutic Antibodies is 2019. Adding.
+2020-05-08 11:24:22,997 - root - DEBUG - Date for Inducible bronchus-associated lymphoid tissues (iBALT) serve as sites of B cell selection and maturation following influenza infection in mice is 2019. Adding.
+2020-05-08 11:24:23,005 - root - DEBUG - Date for Soluble recombinant hemagglutinin protein of H1N1pdm09 influenza virus elicits cross-protection against a lethal H5N1 challenge in mice. is 2019. Adding.
+2020-05-08 11:24:23,014 - root - DEBUG - Date for Gene delivery of a modified antibody to Aβ reduces progression of murine Alzheimer's disease is 2019. Adding.
+2020-05-08 11:24:23,024 - root - ERROR - Could not get date for P046 Necrostatin-1 ameliorates neutrophilic asthma by inhibiting neutrophil release nets. Not adding.
+2020-05-08 11:24:23,035 - root - DEBUG - Date for Recombinant plant-derived human IgE glycoproteomics is 2017. Adding.
+2020-05-08 11:24:23,051 - root - DEBUG - Date for Cross-Reactivity to Kynureninase Tolerizes B Cells That Express the HIV-1 Broadly Neutralizing Antibody 2F5 is 2019. Adding.
+2020-05-08 11:24:23,061 - root - DEBUG - Date for Design and characterization of mouse IgG1 and IgG2a bispecific antibodies for use in syngeneic models is 2020. Adding.
+2020-05-08 11:24:23,073 - root - DEBUG - Date for Evaluation of antibody fragment properties for near-infrared fluorescence imaging of HER3-positive cancer xenografts is 2018. Adding.
+2020-05-08 11:24:23,083 - root - DEBUG - Date for Fragile X mental retardation protein regulates accumulation of the active zone protein Munc18-1 in presynapses via local translation in axons during synaptogenesis is 2019. Adding.
+2020-05-08 11:24:28,594 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=430&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:24:28,999 - root - DEBUG - Date for A Radioactivity-Based Assay for Screening Human m6A-RNA Methyltransferase, METTL3-METTL14 Complex, and Demethylase ALKBH5 is 2016. Not adding.
+2020-05-08 11:24:29,009 - root - DEBUG - Date for Seroepidemiology of human papillomavirus 16 (HPV16) L2 and generation of L2-specific human chimeric monoclonal antibodies is 2015. Not adding.
+2020-05-08 11:24:29,018 - root - DEBUG - Date for Autoreactivity to malondialdehyde-modifications in rheumatoid arthritis is linked to disease activity and synovial pathogenesis is 2017. Adding.
+2020-05-08 11:24:29,028 - root - DEBUG - Date for An Evolutionary Insertion in the Mxra8 Receptor-Binding Site Confers Resistance to Alphavirus Infection and Pathogenesis is 2020. Adding.
+2020-05-08 11:24:29,039 - root - DEBUG - Date for Active and water-soluble form of lipidated Wnt protein is maintained by a serum glycoprotein afamin/α-albumin is 2016. Not adding.
+2020-05-08 11:24:29,050 - root - DEBUG - Date for Comparisons of Antibody Populations in Different Pre-Fusion F VLP-Immunized Cotton Rat Dams and Their Offspring is 2020. Adding.
+2020-05-08 11:24:29,062 - root - DEBUG - Date for Dengue-2 virus-like particle (VLP) based vaccine elicits the highest titers of neutralizing antibodies when produced at reduced temperature is 2018. Adding.
+2020-05-08 11:24:29,071 - root - ERROR - Could not get date for Method for producing antibody. Not adding.
+2020-05-08 11:24:29,083 - root - DEBUG - Date for Functional comparison of blood-stage Plasmodium falciparum malaria vaccine candidate antigens is 2019. Adding.
+2020-05-08 11:24:29,094 - root - DEBUG - Date for X-ray crystal structure of plasmin with tranexamic acid–derived active site inhibitors is 2017. Adding.
+2020-05-08 11:24:35,550 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=440&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:24:36,190 - root - DEBUG - Date for A programmable DNA-origami platform for studying lipid transfer between bilayers is 2019. Adding.
+2020-05-08 11:24:36,200 - root - DEBUG - Date for KILchip v1. 0: a novel Plasmodium falciparum merozoite protein microarray to facilitate malaria vaccine candidate prioritization is 2018. Adding.
+2020-05-08 11:24:36,210 - root - DEBUG - Date for Quantitative assays for measuring human telomerase activity and DNA binding properties is 2017. Adding.
+2020-05-08 11:24:36,220 - root - DEBUG - Date for Immunization expands B cells specific to HIV-1 V3 glycan in mice and macaques is 2019. Adding.
+2020-05-08 11:24:36,232 - root - DEBUG - Date for Synergy between EphA2-ILs-DTXp, a Novel EphA2-Targeted Nanoliposomal Taxane, and PD-1 Inhibitors in Preclinical Tumor Models is 2020. Adding.
+2020-05-08 11:24:36,243 - root - DEBUG - Date for Constant domain-exchanged Fab enables specific light chain pairing in heterodimeric bispecific SEED-antibodies is 2020. Adding.
+2020-05-08 11:24:36,255 - root - DEBUG - Date for S-Palmitoylation sorts membrane cargo for anterograde transport in the golgi is 2018. Adding.
+2020-05-08 11:24:36,266 - root - DEBUG - Date for A facile technology for the high-throughput sequencing of the paired VH: VL and TCRβ: TCRα repertoires is 2020. Adding.
+2020-05-08 11:24:36,276 - root - DEBUG - Date for Characterization of potent RSV neutralizing antibodies isolated from human memory B cells and identification of diverse RSV/hMPV cross-neutralizing epitopes is 2019. Adding.
+2020-05-08 11:24:36,286 - root - DEBUG - Date for IL-2 Shapes the Survival and Plasticity of IL-17–Producing γδ T Cells is 2017. Adding.
+2020-05-08 11:24:43,468 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=450&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:24:43,833 - root - DEBUG - Date for An unbiased screen for human cytomegalovirus identifies neuropilin-2 as a central viral receptor is 2018. Adding.
+2020-05-08 11:24:43,841 - root - DEBUG - Date for A dynamic interaction between CD19 and the tetraspanin CD81 controls B cell co-receptor trafficking is 2019. Adding.
+2020-05-08 11:24:43,850 - root - ERROR - Could not get date for Development and Characterization of Novel TherapeuticBiologics to Enhance Immune Targeting ofClear Cell Renal Cell Carcinoma. Not adding.
+2020-05-08 11:24:43,860 - root - DEBUG - Date for Structural basis of Wee kinases functionality and inactivation by diverse small molecule inhibitors is 2017. Adding.
+2020-05-08 11:24:43,872 - root - DEBUG - Date for Assessing kinetic and epitopic diversity across orthogonal monoclonal antibody generation platforms is 2016. Not adding.
+2020-05-08 11:24:43,885 - root - DEBUG - Date for Placental malaria vaccine candidate antigen VAR2CSA displays atypical domain architecture in some Plasmodium falciparum strains is 2019. Adding.
+2020-05-08 11:24:43,897 - root - DEBUG - Date for High-level expression and purification of soluble form of human natural killer cell receptor NKR-P1 in HEK293S GnTI− cells is 2017. Adding.
+2020-05-08 11:24:43,909 - root - DEBUG - Date for Physiological temperatures reduce dimerization of dengue and Zika virus recombinant envelope proteins is 2018. Adding.
+2020-05-08 11:24:43,918 - root - DEBUG - Date for Detection and kinetics of persistent neutralizing anti-interferon-beta antibodies in patients with multiple sclerosis. Results from the ABIRISK prospective cohort study is 2019. Adding.
+2020-05-08 11:24:43,929 - root - DEBUG - Date for convertibleCARs: A chimeric antigen receptor system for flexible control of activity and antigen targeting is 2019. Adding.
+2020-05-08 11:24:50,120 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=460&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:24:50,572 - root - DEBUG - Date for Facile generation of antibody heavy and light chain diversities for yeast surface display by Golden Gate Cloning is 2019. Adding.
+2020-05-08 11:24:50,581 - root - DEBUG - Date for Human protective response induced by meningococcus B vaccine is mediated by the synergy of multiple bactericidal epitopes is 2018. Adding.
+2020-05-08 11:24:50,591 - root - DEBUG - Date for The human cytomegalovirus UL116 gene encodes an envelope glycoprotein forming a complex with gH independently from gL is 2016. Not adding.
+2020-05-08 11:24:50,603 - root - DEBUG - Date for Improved Antitumor Efficacy of Chimeric Antigen Receptor T Cells that Secrete Single-Domain Antibody Fragments is 2020. Adding.
+2020-05-08 11:24:50,615 - root - DEBUG - Date for Presynapse formation assay using presynapse organizer beads and “neuron ball” culture is 2019. Adding.
+2020-05-08 11:24:50,626 - root - DEBUG - Date for Selection and Characterization of Anti-idiotypic Shark Antibody Domains is 2020. Adding.
+2020-05-08 11:24:50,637 - root - DEBUG - Date for A universal approach to optimize the folding and stability of prefusion-closed HIV-1 envelope trimers is 2018. Adding.
+2020-05-08 11:24:50,648 - root - DEBUG - Date for mRNA Display Discovery of a Novel Programmed Death Ligand 1 (PD-L1) Binding Peptide (a Peptide Ligand for PD-L1) is 2020. Adding.
+2020-05-08 11:24:50,660 - root - DEBUG - Date for Cell-autonomous expression of the acid hydrolase galactocerebrosidase is 2020. Adding.
+2020-05-08 11:24:50,670 - root - DEBUG - Date for Methods for screening for modulators of gdf15-like biological activity is 2019. Adding.
+2020-05-08 11:24:59,303 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=470&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:24:59,771 - root - DEBUG - Date for A programmable DNA-origami platform for studying protein-mediated lipid transfer between bilayers is 2019. Adding.
+2020-05-08 11:24:59,781 - root - DEBUG - Date for GDF15 fusion proteins and uses thereof is 2019. Adding.
+2020-05-08 11:24:59,792 - root - DEBUG - Date for Importance of neutralizing monoclonal antibodies targeting multiple antigenic sites on the Middle East respiratory syndrome coronavirus spike glycoprotein to avoid … is 2018. Adding.
+2020-05-08 11:24:59,804 - root - DEBUG - Date for Affinity maturation drives epitope spreading and generation of proinflammatory anti–citrullinated protein antibodies in rheumatoid arthritis is 2018. Adding.
+2020-05-08 11:24:59,814 - root - DEBUG - Date for IRE1β negatively regulates IRE1α signaling in response to endoplasmic reticulum stress is 2020. Adding.
+2020-05-08 11:24:59,825 - root - ERROR - Could not get date for Production of Murray Valley Encephalitis Virus-Like Particles for Vaccine Studies. Not adding.
+2020-05-08 11:24:59,836 - root - DEBUG - Date for An optimized full length FLT3/CD3 bispecific antibody demonstrates potent anti-leukemia activity and reversible hematological toxicity is 2020. Adding.
+2020-05-08 11:24:59,846 - root - DEBUG - Date for Generation and reactivity analysis of human recombinant monoclonal antibodies directed against epitopes on HLA‐DR is 2020. Adding.
+2020-05-08 11:24:59,856 - root - DEBUG - Date for Structural insights into conformational switching in latency-associated peptide between transforming growth factor β-1 bound and unbound states is 2020. Adding.
+2020-05-08 11:24:59,867 - root - DEBUG - Date for SUSD2 Proteolytic Cleavage Requires the GDPH Sequence and Inter-Fragment Disulfide Bonds for Surface Presentation of Galectin-1 on Breast Cancer Cells is 2019. Adding.
+2020-05-08 11:25:05,519 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=480&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:25:06,040 - root - DEBUG - Date for Chickens with humanized immunoglobulin genes generate antibodies with high affinity and broad epitope coverage to conserved targets is 2018. Adding.
+2020-05-08 11:25:06,048 - root - DEBUG - Date for LDAF1 and seipin form a lipid droplet assembly complex is 2019. Adding.
+2020-05-08 11:25:06,055 - root - DEBUG - Date for Anti-IL-5 Antibodies is 2018. Adding.
+2020-05-08 11:25:06,065 - root - DEBUG - Date for Human antibodies targeting Zika virus NS1 provide protection against disease in a mouse model is 2018. Adding.
+2020-05-08 11:25:06,074 - root - DEBUG - Date for Tumor inhibitory effect of IRCR201, a novel cross-reactive c-Met antibody targeting the PSI domain is 2017. Adding.
+2020-05-08 11:25:06,085 - root - DEBUG - Date for Bispecific antibodies (anti-mPEG/anti-HER2) for active tumor targeting of docetaxel (DTX)-loaded mPEGylated nanocarriers to enhance the chemotherapeutic efficacy … is 2018. Adding.
+2020-05-08 11:25:06,096 - root - DEBUG - Date for Wavelength-dependent fluorescent immunosensors via incorporation of polarity indicators near the binding interface of antibody fragments is 2019. Adding.
+2020-05-08 11:25:06,111 - root - DEBUG - Date for Engineered clearing agents for the selective depletion of antigen-specific antibodies is 2017. Adding.
+2020-05-08 11:25:06,122 - root - DEBUG - Date for Longitudinal analysis of the human B cell response to Ebola virus infection is 2019. Adding.
+2020-05-08 11:25:06,132 - root - DEBUG - Date for Glycan repositioning of influenza hemagglutinin stem facilitates the elicitation of protective cross-group antibody responses is 2020. Adding.
+2020-05-08 11:25:13,743 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?start=490&q=Expi293&hl=en&as_sdt=0,5 HTTP/1.1" 200 None
+2020-05-08 11:25:14,056 - root - DEBUG - Now searching Google Scholar for keyword: expiCHO
+2020-05-08 11:25:22,799 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?q=expiCHO HTTP/1.1" 200 None
+2020-05-08 11:25:22,984 - root - ERROR - Could not create csv file google_scholar_results_2020-05-08-11-25-22.csv.

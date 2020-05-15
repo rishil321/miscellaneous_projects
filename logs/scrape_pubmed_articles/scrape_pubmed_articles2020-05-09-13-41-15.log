@@ -1,0 +1,113 @@
+2020-05-09 13:41:15,337 - root - DEBUG - Now searching Google Scholar for keyword: Expi293
+2020-05-09 13:41:26,055 - fake_useragent - DEBUG - Error occurred during fetching http://useragentstring.com/pages/useragentstring.php?name=Internet+Explorer
+Traceback (most recent call last):
+  File "/home/rishi/.local/lib/python3.6/site-packages/fake_useragent/utils.py", line 67, in get
+    context=context,
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 526, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.6/urllib/request.py", line 544, in _open
+    '_open', req)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 1353, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "/usr/lib/python3.6/urllib/request.py", line 1328, in do_open
+    r = h.getresponse()
+  File "/usr/lib/python3.6/http/client.py", line 1356, in getresponse
+    response.begin()
+  File "/usr/lib/python3.6/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.6/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+socket.timeout: timed out
+2020-05-09 13:41:26,072 - fake_useragent - DEBUG - Sleeping for 0.1 seconds
+2020-05-09 13:41:31,371 - fake_useragent - DEBUG - Error occurred during fetching http://useragentstring.com/pages/useragentstring.php?name=Internet+Explorer
+Traceback (most recent call last):
+  File "/home/rishi/.local/lib/python3.6/site-packages/fake_useragent/utils.py", line 67, in get
+    context=context,
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 526, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.6/urllib/request.py", line 544, in _open
+    '_open', req)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 1353, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "/usr/lib/python3.6/urllib/request.py", line 1328, in do_open
+    r = h.getresponse()
+  File "/usr/lib/python3.6/http/client.py", line 1356, in getresponse
+    response.begin()
+  File "/usr/lib/python3.6/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.6/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+socket.timeout: timed out
+2020-05-09 13:41:31,374 - fake_useragent - WARNING - Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.11
+Traceback (most recent call last):
+  File "/home/rishi/.local/lib/python3.6/site-packages/fake_useragent/utils.py", line 67, in get
+    context=context,
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 526, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.6/urllib/request.py", line 544, in _open
+    '_open', req)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 1353, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "/usr/lib/python3.6/urllib/request.py", line 1328, in do_open
+    r = h.getresponse()
+  File "/usr/lib/python3.6/http/client.py", line 1356, in getresponse
+    response.begin()
+  File "/usr/lib/python3.6/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.6/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/rishi/.local/lib/python3.6/site-packages/fake_useragent/utils.py", line 166, in load
+    verify_ssl=verify_ssl,
+  File "/home/rishi/.local/lib/python3.6/site-packages/fake_useragent/utils.py", line 122, in get_browser_versions
+    verify_ssl=verify_ssl,
+  File "/home/rishi/.local/lib/python3.6/site-packages/fake_useragent/utils.py", line 84, in get
+    raise FakeUserAgentError('Maximum amount of retries reached')
+fake_useragent.errors.FakeUserAgentError: Maximum amount of retries reached
+2020-05-09 13:41:33,454 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:36479/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1866.237 Safari/537.36"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1866.237 Safari/537.36"]}}}
+2020-05-09 13:41:33,462 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:36479
+2020-05-09 13:41:35,010 - urllib3.connectionpool - DEBUG - http://127.0.0.1:36479 "POST /session HTTP/1.1" 200 681
+2020-05-09 13:41:35,030 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 13:41:35,033 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:36479/session/99c36253b154c76d9e5141e8e1114512/window/rect {"x": null, "y": null, "width": 895, "height": 999}
+2020-05-09 13:41:35,174 - urllib3.connectionpool - DEBUG - http://127.0.0.1:36479 "POST /session/99c36253b154c76d9e5141e8e1114512/window/rect HTTP/1.1" 200 50
+2020-05-09 13:41:35,176 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 13:41:37,181 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:36479/session/99c36253b154c76d9e5141e8e1114512/url {"url": "https://scholar.google.com/scholar?hl=en&q=Expi293"}
+2020-05-09 13:41:40,037 - urllib3.connectionpool - DEBUG - http://127.0.0.1:36479 "POST /session/99c36253b154c76d9e5141e8e1114512/url HTTP/1.1" 200 14
+2020-05-09 13:41:40,039 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 13:41:40,040 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:36479/session/99c36253b154c76d9e5141e8e1114512/source {}
+2020-05-09 13:41:40,110 - urllib3.connectionpool - DEBUG - http://127.0.0.1:36479 "GET /session/99c36253b154c76d9e5141e8e1114512/source HTTP/1.1" 200 149304
+2020-05-09 13:41:40,121 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 13:41:40,127 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:36479/session/99c36253b154c76d9e5141e8e1114512/source {}
+2020-05-09 13:41:40,184 - urllib3.connectionpool - DEBUG - http://127.0.0.1:36479 "GET /session/99c36253b154c76d9e5141e8e1114512/source HTTP/1.1" 200 149304
+2020-05-09 13:41:40,190 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 13:41:42,788 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:36479/session/99c36253b154c76d9e5141e8e1114512/url {"url": "https://scholar.google.com/scholar?q=info:0SG-AW_A004J:scholar.google.com/&output=cite&scirp=0&hl=en"}
+2020-05-09 13:41:43,392 - urllib3.connectionpool - DEBUG - http://127.0.0.1:36479 "POST /session/99c36253b154c76d9e5141e8e1114512/url HTTP/1.1" 200 14
+2020-05-09 13:41:43,394 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 13:41:43,395 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:36479/session/99c36253b154c76d9e5141e8e1114512/source {}
+2020-05-09 13:41:43,420 - urllib3.connectionpool - DEBUG - http://127.0.0.1:36479 "GET /session/99c36253b154c76d9e5141e8e1114512/source HTTP/1.1" 200 3656
+2020-05-09 13:41:43,423 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-09 13:41:43,424 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:36479/session/99c36253b154c76d9e5141e8e1114512/source {}
+2020-05-09 13:41:43,464 - urllib3.connectionpool - DEBUG - http://127.0.0.1:36479 "GET /session/99c36253b154c76d9e5141e8e1114512/source HTTP/1.1" 200 3656
+2020-05-09 13:41:43,466 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request

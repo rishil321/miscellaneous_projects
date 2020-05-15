@@ -1,0 +1,3 @@
+2020-05-08 08:50:27,904 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): scholar.google.com:443
+2020-05-08 08:50:28,353 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /citations?view_op=search_authors&hl=en&mauthors=label:Expi293 HTTP/1.1" 200 None
+2020-05-08 08:50:35,897 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /citations?view_op=search_authors&hl=en&mauthors=label:expiCHO HTTP/1.1" 200 None

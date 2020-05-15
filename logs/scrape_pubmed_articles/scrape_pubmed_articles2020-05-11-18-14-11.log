@@ -1,0 +1,155 @@
+2020-05-11 18:14:11,555 - root - DEBUG - Now searching Google Scholar for keyword: Expi293
+2020-05-11 18:14:12,643 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-automation"], "useAutomationExtension": false, "extensions": [], "args": ["--proxy-server=socks5://127.0.0.1:9150", "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17"]}}}
+2020-05-11 18:14:12,654 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:39279
+2020-05-11 18:14:14,236 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session HTTP/1.1" 200 681
+2020-05-11 18:14:14,295 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:14,320 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/window/rect {"x": null, "y": null, "width": 465, "height": 956}
+2020-05-11 18:14:14,449 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/window/rect HTTP/1.1" 200 51
+2020-05-11 18:14:14,451 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:16,453 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?hl=en&q=Expi293"}
+2020-05-11 18:14:20,397 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:20,399 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:20,402 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:20,463 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 149367
+2020-05-11 18:14:20,472 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:20,474 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:20,539 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 149367
+2020-05-11 18:14:20,544 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:23,092 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:0SG-AW_A004J:scholar.google.com/&output=cite&scirp=0&hl=en"}
+2020-05-11 18:14:24,030 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:24,032 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:24,033 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:24,065 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3656
+2020-05-11 18:14:24,070 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:24,072 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:24,096 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3656
+2020-05-11 18:14:24,102 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:26,163 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:UFfpHYeCpHUJ:scholar.google.com/&output=cite&scirp=1&hl=en"}
+2020-05-11 18:14:26,861 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:26,863 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:26,864 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:26,896 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3520
+2020-05-11 18:14:26,898 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:26,899 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:26,915 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3520
+2020-05-11 18:14:26,918 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:28,969 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:W54a4YRUG_cJ:scholar.google.com/&output=cite&scirp=2&hl=en"}
+2020-05-11 18:14:29,718 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:29,722 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:29,725 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:29,752 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3116
+2020-05-11 18:14:29,759 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:29,761 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:29,786 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3116
+2020-05-11 18:14:29,797 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:31,837 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:GTPZcjPuCakJ:scholar.google.com/&output=cite&scirp=3&hl=en"}
+2020-05-11 18:14:32,532 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:32,534 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:32,535 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:32,582 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3783
+2020-05-11 18:14:32,598 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:32,602 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:32,624 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3783
+2020-05-11 18:14:32,626 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:34,705 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:FN0ewga8g3sJ:scholar.google.com/&output=cite&scirp=4&hl=en"}
+2020-05-11 18:14:35,655 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:35,657 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:35,659 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:35,679 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3968
+2020-05-11 18:14:35,682 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:35,683 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:35,700 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3968
+2020-05-11 18:14:35,702 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:37,756 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:1pX-cwzvK8sJ:scholar.google.com/&output=cite&scirp=5&hl=en"}
+2020-05-11 18:14:38,460 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:38,463 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:38,464 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:38,494 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3763
+2020-05-11 18:14:38,496 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:38,497 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:38,513 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3763
+2020-05-11 18:14:38,515 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:40,575 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:oWRfby0TCVgJ:scholar.google.com/&output=cite&scirp=6&hl=en"}
+2020-05-11 18:14:41,244 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:41,246 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:41,247 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:41,282 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3518
+2020-05-11 18:14:41,284 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:41,285 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:41,305 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3518
+2020-05-11 18:14:41,307 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:43,349 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:4y-XhzPS1o4J:scholar.google.com/&output=cite&scirp=7&hl=en"}
+2020-05-11 18:14:44,055 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:44,057 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:44,059 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:44,071 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3086
+2020-05-11 18:14:44,073 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:44,074 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:44,090 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3086
+2020-05-11 18:14:44,093 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:46,150 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:pKOTOMOCR6UJ:scholar.google.com/&output=cite&scirp=8&hl=en"}
+2020-05-11 18:14:46,908 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:46,911 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:46,912 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:46,927 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3439
+2020-05-11 18:14:46,929 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:46,930 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:46,940 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3439
+2020-05-11 18:14:46,943 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:48,993 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:IurVDTzAMd4J:scholar.google.com/&output=cite&scirp=9&hl=en"}
+2020-05-11 18:14:49,785 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:49,787 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:49,788 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:49,813 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3489
+2020-05-11 18:14:49,816 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:49,818 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:49,839 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3489
+2020-05-11 18:14:49,842 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:52,085 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?start=10&q=Expi293&hl=en&as_sdt=0,5"}
+2020-05-11 18:14:55,587 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:55,589 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:55,598 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:55,666 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 147441
+2020-05-11 18:14:55,672 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:55,673 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:55,727 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 147441
+2020-05-11 18:14:55,732 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:58,061 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:zpBvg5d6h_YJ:scholar.google.com/&output=cite&scirp=10&hl=en"}
+2020-05-11 18:14:58,867 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:14:58,869 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:58,870 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:58,890 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3304
+2020-05-11 18:14:58,892 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:14:58,893 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:14:58,911 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3304
+2020-05-11 18:14:58,912 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:15:00,950 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:YWrifIav0aoJ:scholar.google.com/&output=cite&scirp=11&hl=en"}
+2020-05-11 18:15:01,738 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:15:01,741 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:15:01,742 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:15:01,764 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3601
+2020-05-11 18:15:01,765 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:15:01,767 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:15:01,780 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3601
+2020-05-11 18:15:01,782 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:15:03,823 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:zCX-BwmLrowJ:scholar.google.com/&output=cite&scirp=12&hl=en"}
+2020-05-11 18:15:04,619 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:15:04,621 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:15:04,622 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:15:04,631 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3803
+2020-05-11 18:15:04,633 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:15:04,634 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:15:04,647 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3803
+2020-05-11 18:15:04,648 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:15:06,685 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:sKZEBXSAL7IJ:scholar.google.com/&output=cite&scirp=13&hl=en"}
+2020-05-11 18:15:07,341 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 200 14
+2020-05-11 18:15:07,342 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:15:07,345 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:15:07,358 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3319
+2020-05-11 18:15:07,360 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:15:07,361 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/source {}
+2020-05-11 18:15:07,371 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "GET /session/2721500b3fc7425e739afbb3148585bd/source HTTP/1.1" 200 3319
+2020-05-11 18:15:07,372 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-11 18:15:09,400 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:39279/session/2721500b3fc7425e739afbb3148585bd/url {"url": "https://scholar.google.com/scholar?q=info:o3c6OX0SUfcJ:scholar.google.com/&output=cite&scirp=14&hl=en"}
+2020-05-11 18:20:09,413 - urllib3.connectionpool - DEBUG - http://127.0.0.1:39279 "POST /session/2721500b3fc7425e739afbb3148585bd/url HTTP/1.1" 500 190
+2020-05-11 18:20:09,415 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request

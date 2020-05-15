@@ -1,0 +1,8 @@
+2020-05-08 11:13:57,133 - root - DEBUG - Now searching Google Scholar for keyword: Expi293
+2020-05-08 11:14:06,976 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): scholar.google.com:443
+2020-05-08 11:14:07,352 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?q=Expi293 HTTP/1.1" 200 None
+2020-05-08 11:14:07,710 - root - DEBUG - Date for A high density CHO-S transient transfection system: comparison of ExpiCHO and Expi293 is 2017. Not adding.
+2020-05-08 11:14:07,711 - root - DEBUG - Now searching Google Scholar for keyword: expiCHO
+2020-05-08 11:14:13,977 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?q=expiCHO HTTP/1.1" 200 None
+2020-05-08 11:14:14,370 - root - DEBUG - Date for A high density CHO-S transient transfection system: comparison of ExpiCHO and Expi293 is 2017. Not adding.
+2020-05-08 11:14:14,394 - root - ERROR - Could not create csv file google_scholar_results_2020-05-08-11-14-14.csv.

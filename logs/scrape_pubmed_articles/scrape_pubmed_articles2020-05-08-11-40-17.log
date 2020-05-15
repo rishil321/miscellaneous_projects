@@ -1,0 +1,5 @@
+2020-05-08 11:40:17,370 - root - DEBUG - Now searching Google Scholar for keyword: Expi293
+2020-05-08 11:40:24,797 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): scholar.google.com:443
+2020-05-08 11:40:25,180 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?q=Expi293 HTTP/1.1" 200 None
+2020-05-08 11:40:25,418 - root - DEBUG - Now searching Google Scholar for keyword: expiCHO
+2020-05-08 11:40:33,054 - urllib3.connectionpool - DEBUG - https://scholar.google.com:443 "GET /scholar?q=expiCHO HTTP/1.1" 200 None
